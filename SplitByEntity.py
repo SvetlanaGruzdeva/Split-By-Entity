@@ -11,6 +11,8 @@ columnList = []
 entitiesList = []
 # TODO: Workbook should be selected by user
 consolFile = 'KZ_G&A_planning_template_FCST2_2020.xlsm'
+region = input('Type in region: ')
+# region = 'KZ' # Temporary
 
 wb = openpyxl.load_workbook(consolFile, data_only=True, keep_vba=True) # data_only - to show cells value, not formula
 ws = wb.get_sheet_by_name('Summary')
@@ -22,10 +24,19 @@ for value in columnList:
         entitiesList.append(value)
 logging.debug(entitiesList)
 
-logging.info('Deleting lines...')
-for rowNum in range (ws.max_row, 5, -1):
-    if ws.cell(row=rowNum, column=4).value != 'KZ101' and ws.cell(row=rowNum, column=4).value != 'FORMULA':
-        ws.delete_rows(rowNum)
+entitiesList = ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
 
-logging.info('Deleting is finished')
-wb.save('G&A_planning_template_FCST2_2020.xlsm')
+logging.info('Started entity loop.')
+for entity in entitiesList:
+    logging.debug(entity)
+    logging.info('Deleting lines...')
+    for rowNum in range (ws.max_row, 5, -1):
+        if ws.cell(row=rowNum, column=4).value != entity and ws.cell(row=rowNum, column=4).value != 'FORMULA':
+            ws.delete_rows(rowNum)
+    logging.info('Deleting is finished.')
+    logging.info('Entity loop finished.')    
+    # ws.protection.password = '' # Set password if necessary
+    # ws.protection.sheet = True
+    
+    newFileName = consolFile.replace(region, entity)
+    wb.save(newFileName)
