@@ -1,0 +1,2605 @@
+ 2020-06-10 15:51:18,532 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 15:51:18,533 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 15:51:18,533 - INFO - Started entity loop.
+ 2020-06-10 15:51:18,533 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 15:51:18,533 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 15:51:18,729 - INFO - Deleting lines...
+ 2020-06-10 15:51:18,729 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:51:18,729 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:51:18,729 - DEBUG - Row number is 11
+ 2020-06-10 15:51:18,729 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 15:51:18,735 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:51:18,735 - DEBUG - Row number is 10
+ 2020-06-10 15:51:18,735 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 15:51:18,735 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:51:18,735 - DEBUG - Row number is 9
+ 2020-06-10 15:51:18,735 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 15:51:18,735 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:51:18,735 - DEBUG - Row number is 8
+ 2020-06-10 15:51:18,735 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 15:51:18,735 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:51:18,735 - DEBUG - Row number is 7
+ 2020-06-10 15:51:18,735 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 15:51:18,735 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:51:18,735 - INFO - Deleting is finished.
+ 2020-06-10 15:51:18,735 - INFO - Entity loop finished.
+ 2020-06-10 15:51:18,937 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 15:51:18,937 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 15:51:19,124 - INFO - Deleting lines...
+ 2020-06-10 15:51:19,124 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 15:51:19,124 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 15:51:19,124 - DEBUG - Row number is 11
+ 2020-06-10 15:51:19,124 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 15:51:19,124 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 15:51:19,124 - DEBUG - Row number is 10
+ 2020-06-10 15:51:19,124 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 15:51:19,124 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 15:51:19,124 - DEBUG - Row number is 9
+ 2020-06-10 15:51:19,124 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 15:51:19,124 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 15:51:19,124 - DEBUG - Row number is 8
+ 2020-06-10 15:51:19,124 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 15:51:19,124 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 15:51:19,124 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 15:51:19,124 - DEBUG - Row number is 6
+ 2020-06-10 15:51:19,124 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 15:51:19,124 - INFO - Deleting is finished.
+ 2020-06-10 15:51:19,124 - INFO - Entity loop finished.
+ 2020-06-10 15:51:19,315 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 15:51:19,315 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 15:51:19,502 - INFO - Deleting lines...
+ 2020-06-10 15:51:19,502 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 15:51:19,502 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 15:51:19,502 - DEBUG - Row number is 11
+ 2020-06-10 15:51:19,502 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 15:51:19,502 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 15:51:19,502 - DEBUG - Row number is 10
+ 2020-06-10 15:51:19,502 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 15:51:19,502 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 15:51:19,502 - DEBUG - Row number is 9
+ 2020-06-10 15:51:19,502 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 15:51:19,502 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 15:51:19,502 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 15:51:19,502 - DEBUG - Row number is 7
+ 2020-06-10 15:51:19,502 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 15:51:19,502 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 15:51:19,502 - DEBUG - Row number is 6
+ 2020-06-10 15:51:19,502 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 15:51:19,502 - INFO - Deleting is finished.
+ 2020-06-10 15:51:19,502 - INFO - Entity loop finished.
+ 2020-06-10 15:51:19,690 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 15:51:19,690 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 15:51:19,876 - INFO - Deleting lines...
+ 2020-06-10 15:51:19,876 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 15:51:19,876 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 15:51:19,876 - DEBUG - Row number is 11
+ 2020-06-10 15:51:19,876 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 15:51:19,876 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 15:51:19,876 - DEBUG - Row number is 10
+ 2020-06-10 15:51:19,876 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 15:51:19,876 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 15:51:19,876 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 15:51:19,876 - DEBUG - Row number is 8
+ 2020-06-10 15:51:19,876 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 15:51:19,876 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 15:51:19,876 - DEBUG - Row number is 7
+ 2020-06-10 15:51:19,876 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 15:51:19,876 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 15:51:19,876 - DEBUG - Row number is 6
+ 2020-06-10 15:51:19,876 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 15:51:19,876 - INFO - Deleting is finished.
+ 2020-06-10 15:51:19,876 - INFO - Entity loop finished.
+ 2020-06-10 15:51:20,077 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 15:51:20,077 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 15:51:20,273 - INFO - Deleting lines...
+ 2020-06-10 15:51:20,273 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 15:51:20,273 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 15:51:20,273 - DEBUG - Row number is 11
+ 2020-06-10 15:51:20,273 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 15:51:20,273 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 15:51:20,273 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 15:51:20,273 - DEBUG - Row number is 9
+ 2020-06-10 15:51:20,273 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 15:51:20,273 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 15:51:20,273 - DEBUG - Row number is 8
+ 2020-06-10 15:51:20,273 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 15:51:20,273 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 15:51:20,273 - DEBUG - Row number is 7
+ 2020-06-10 15:51:20,273 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 15:51:20,273 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 15:51:20,273 - DEBUG - Row number is 6
+ 2020-06-10 15:51:20,273 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 15:51:20,273 - INFO - Deleting is finished.
+ 2020-06-10 15:51:20,273 - INFO - Entity loop finished.
+ 2020-06-10 15:51:20,467 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 15:51:20,467 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 15:51:20,634 - INFO - Deleting lines...
+ 2020-06-10 15:51:20,634 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 15:51:20,634 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 15:51:20,634 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 15:51:20,634 - DEBUG - Row number is 10
+ 2020-06-10 15:51:20,634 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 15:51:20,634 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 15:51:20,634 - DEBUG - Row number is 9
+ 2020-06-10 15:51:20,634 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 15:51:20,634 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 15:51:20,634 - DEBUG - Row number is 8
+ 2020-06-10 15:51:20,634 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 15:51:20,634 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 15:51:20,634 - DEBUG - Row number is 7
+ 2020-06-10 15:51:20,634 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 15:51:20,634 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 15:51:20,634 - DEBUG - Row number is 6
+ 2020-06-10 15:51:20,634 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 15:51:20,650 - INFO - Deleting is finished.
+ 2020-06-10 15:51:20,650 - INFO - Entity loop finished.
+ 2020-06-10 15:52:33,347 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 15:52:33,347 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 15:52:33,347 - INFO - Started entity loop.
+ 2020-06-10 15:52:33,347 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 15:52:33,347 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 15:52:33,591 - INFO - Deleting lines...
+ 2020-06-10 15:52:33,591 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:52:33,591 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:52:33,591 - DEBUG - Row number is 11
+ 2020-06-10 15:52:33,592 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 15:52:33,592 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:52:33,592 - DEBUG - Row number is 10
+ 2020-06-10 15:52:33,592 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 15:52:33,592 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:52:33,592 - DEBUG - Row number is 9
+ 2020-06-10 15:52:33,592 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 15:52:33,592 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:52:33,592 - DEBUG - Row number is 8
+ 2020-06-10 15:52:33,592 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 15:52:33,592 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:52:33,592 - DEBUG - Row number is 7
+ 2020-06-10 15:52:33,592 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 15:52:33,592 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:52:33,592 - INFO - Deleting is finished.
+ 2020-06-10 15:52:33,592 - INFO - Entity loop finished.
+ 2020-06-10 15:57:21,110 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 15:57:21,110 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 15:57:21,110 - INFO - Started entity loop.
+ 2020-06-10 15:57:21,110 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 15:57:21,111 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 15:57:21,299 - INFO - Deleting lines...
+ 2020-06-10 15:57:21,299 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:57:21,299 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:57:21,299 - DEBUG - Row number is 11
+ 2020-06-10 15:57:21,299 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 15:57:21,300 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:57:21,300 - DEBUG - Row number is 10
+ 2020-06-10 15:57:21,300 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 15:57:21,300 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:57:21,300 - DEBUG - Row number is 9
+ 2020-06-10 15:57:21,300 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 15:57:21,301 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:57:21,301 - DEBUG - Row number is 8
+ 2020-06-10 15:57:21,301 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 15:57:21,301 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:57:21,301 - DEBUG - Row number is 7
+ 2020-06-10 15:57:21,301 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 15:57:21,301 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:57:21,301 - INFO - Deleting is finished.
+ 2020-06-10 15:57:21,301 - INFO - Entity loop finished.
+ 2020-06-10 15:58:11,495 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 15:58:11,495 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 15:58:11,496 - INFO - Started entity loop.
+ 2020-06-10 15:58:11,496 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 15:58:11,496 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 15:58:11,688 - INFO - Deleting lines...
+ 2020-06-10 15:58:11,688 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:58:11,688 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:58:11,688 - DEBUG - Row number is 11
+ 2020-06-10 15:58:11,688 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 15:58:11,689 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:58:11,689 - DEBUG - Row number is 10
+ 2020-06-10 15:58:11,689 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 15:58:11,690 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:58:11,690 - DEBUG - Row number is 9
+ 2020-06-10 15:58:11,690 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 15:58:11,690 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:58:11,690 - DEBUG - Row number is 8
+ 2020-06-10 15:58:11,690 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 15:58:11,690 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:58:11,690 - DEBUG - Row number is 7
+ 2020-06-10 15:58:11,690 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 15:58:11,690 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 15:58:11,690 - INFO - Deleting is finished.
+ 2020-06-10 15:58:11,690 - INFO - Entity loop finished.
+ 2020-06-10 16:04:01,255 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:04:01,255 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:04:01,255 - INFO - Started entity loop.
+ 2020-06-10 16:04:01,255 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:04:01,255 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:04:01,452 - INFO - Deleting lines...
+ 2020-06-10 16:04:01,452 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:04:01,452 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:04:01,453 - DEBUG - Row number is 11
+ 2020-06-10 16:04:01,453 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:04:01,453 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:04:01,453 - DEBUG - Row number is 10
+ 2020-06-10 16:04:01,454 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:04:01,454 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:04:01,454 - DEBUG - Row number is 9
+ 2020-06-10 16:04:01,454 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:04:01,454 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:04:01,454 - DEBUG - Row number is 8
+ 2020-06-10 16:04:01,454 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:04:01,454 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:04:01,454 - DEBUG - Row number is 7
+ 2020-06-10 16:04:01,454 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:04:01,454 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:04:01,454 - INFO - Deleting is finished.
+ 2020-06-10 16:04:01,454 - INFO - Entity loop finished.
+ 2020-06-10 16:04:01,644 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 16:04:01,644 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:04:01,844 - INFO - Deleting lines...
+ 2020-06-10 16:04:01,844 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:04:01,844 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:04:01,844 - DEBUG - Row number is 11
+ 2020-06-10 16:04:01,844 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 16:04:01,844 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:04:01,844 - DEBUG - Row number is 10
+ 2020-06-10 16:04:01,844 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 16:04:01,844 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:04:01,844 - DEBUG - Row number is 9
+ 2020-06-10 16:04:01,844 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 16:04:01,844 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:04:01,844 - DEBUG - Row number is 8
+ 2020-06-10 16:04:01,844 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 16:04:01,844 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:04:01,844 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:04:01,844 - DEBUG - Row number is 6
+ 2020-06-10 16:04:01,844 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 16:04:01,844 - INFO - Deleting is finished.
+ 2020-06-10 16:04:01,844 - INFO - Entity loop finished.
+ 2020-06-10 16:04:02,044 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 16:04:02,044 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:04:02,231 - INFO - Deleting lines...
+ 2020-06-10 16:04:02,231 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:04:02,231 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:04:02,231 - DEBUG - Row number is 11
+ 2020-06-10 16:04:02,231 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 16:04:02,231 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:04:02,231 - DEBUG - Row number is 10
+ 2020-06-10 16:04:02,231 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 16:04:02,231 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:04:02,231 - DEBUG - Row number is 9
+ 2020-06-10 16:04:02,231 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 16:04:02,231 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:04:02,231 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:04:02,231 - DEBUG - Row number is 7
+ 2020-06-10 16:04:02,231 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 16:04:02,231 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:04:02,231 - DEBUG - Row number is 6
+ 2020-06-10 16:04:02,231 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 16:04:02,231 - INFO - Deleting is finished.
+ 2020-06-10 16:04:02,231 - INFO - Entity loop finished.
+ 2020-06-10 16:04:02,417 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 16:04:02,417 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:04:02,613 - INFO - Deleting lines...
+ 2020-06-10 16:04:02,613 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:04:02,613 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:04:02,613 - DEBUG - Row number is 11
+ 2020-06-10 16:04:02,613 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 16:04:02,613 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:04:02,613 - DEBUG - Row number is 10
+ 2020-06-10 16:04:02,613 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 16:04:02,613 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:04:02,613 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:04:02,613 - DEBUG - Row number is 8
+ 2020-06-10 16:04:02,613 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 16:04:02,613 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:04:02,613 - DEBUG - Row number is 7
+ 2020-06-10 16:04:02,613 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 16:04:02,613 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:04:02,613 - DEBUG - Row number is 6
+ 2020-06-10 16:04:02,613 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 16:04:02,613 - INFO - Deleting is finished.
+ 2020-06-10 16:04:02,613 - INFO - Entity loop finished.
+ 2020-06-10 16:04:02,801 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 16:04:02,801 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:04:02,988 - INFO - Deleting lines...
+ 2020-06-10 16:04:02,988 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:04:02,988 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:04:02,988 - DEBUG - Row number is 11
+ 2020-06-10 16:04:02,988 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 16:04:02,988 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:04:02,988 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:04:02,988 - DEBUG - Row number is 9
+ 2020-06-10 16:04:02,988 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 16:04:02,988 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:04:02,988 - DEBUG - Row number is 8
+ 2020-06-10 16:04:02,988 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 16:04:02,988 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:04:02,988 - DEBUG - Row number is 7
+ 2020-06-10 16:04:02,988 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 16:04:02,988 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:04:02,988 - DEBUG - Row number is 6
+ 2020-06-10 16:04:02,988 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 16:04:02,988 - INFO - Deleting is finished.
+ 2020-06-10 16:04:02,988 - INFO - Entity loop finished.
+ 2020-06-10 16:04:03,195 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 16:04:03,195 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:04:03,369 - INFO - Deleting lines...
+ 2020-06-10 16:04:03,369 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:04:03,369 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:04:03,369 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:04:03,369 - DEBUG - Row number is 10
+ 2020-06-10 16:04:03,369 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 16:04:03,369 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:04:03,369 - DEBUG - Row number is 9
+ 2020-06-10 16:04:03,369 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 16:04:03,369 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:04:03,369 - DEBUG - Row number is 8
+ 2020-06-10 16:04:03,369 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 16:04:03,369 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:04:03,369 - DEBUG - Row number is 7
+ 2020-06-10 16:04:03,369 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 16:04:03,385 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:04:03,385 - DEBUG - Row number is 6
+ 2020-06-10 16:04:03,385 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 16:04:03,385 - INFO - Deleting is finished.
+ 2020-06-10 16:04:03,385 - INFO - Entity loop finished.
+ 2020-06-10 16:09:14,529 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:09:14,529 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:09:14,530 - INFO - Started entity loop.
+ 2020-06-10 16:09:14,530 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:09:14,530 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:09:14,720 - INFO - Deleting lines...
+ 2020-06-10 16:09:14,720 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:09:14,720 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:09:14,720 - DEBUG - Row number is 11
+ 2020-06-10 16:09:14,720 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:09:14,720 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:09:14,720 - DEBUG - Row number is 10
+ 2020-06-10 16:09:14,720 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:09:14,721 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:09:14,721 - DEBUG - Row number is 9
+ 2020-06-10 16:09:14,721 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:09:14,721 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:09:14,721 - DEBUG - Row number is 8
+ 2020-06-10 16:09:14,721 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:09:14,722 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:09:14,722 - DEBUG - Row number is 7
+ 2020-06-10 16:09:14,722 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:09:14,722 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:09:14,722 - INFO - Deleting is finished.
+ 2020-06-10 16:09:14,722 - INFO - Entity loop finished.
+ 2020-06-10 16:09:14,939 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 16:09:14,939 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:09:15,134 - INFO - Deleting lines...
+ 2020-06-10 16:09:15,135 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:09:15,135 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:09:15,135 - DEBUG - Row number is 11
+ 2020-06-10 16:09:15,135 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 16:09:15,135 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:09:15,135 - DEBUG - Row number is 10
+ 2020-06-10 16:09:15,135 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 16:09:15,136 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:09:15,136 - DEBUG - Row number is 9
+ 2020-06-10 16:09:15,136 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 16:09:15,136 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:09:15,136 - DEBUG - Row number is 8
+ 2020-06-10 16:09:15,136 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 16:09:15,136 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:09:15,136 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:09:15,136 - DEBUG - Row number is 6
+ 2020-06-10 16:09:15,136 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 16:09:15,136 - INFO - Deleting is finished.
+ 2020-06-10 16:09:15,136 - INFO - Entity loop finished.
+ 2020-06-10 16:09:15,324 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 16:09:15,324 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:09:15,515 - INFO - Deleting lines...
+ 2020-06-10 16:09:15,515 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:09:15,515 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:09:15,515 - DEBUG - Row number is 11
+ 2020-06-10 16:09:15,515 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 16:09:15,515 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:09:15,515 - DEBUG - Row number is 10
+ 2020-06-10 16:09:15,515 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 16:09:15,515 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:09:15,515 - DEBUG - Row number is 9
+ 2020-06-10 16:09:15,515 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 16:09:15,515 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:09:15,515 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:09:15,515 - DEBUG - Row number is 7
+ 2020-06-10 16:09:15,515 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 16:09:15,515 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:09:15,515 - DEBUG - Row number is 6
+ 2020-06-10 16:09:15,515 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 16:09:15,515 - INFO - Deleting is finished.
+ 2020-06-10 16:09:15,515 - INFO - Entity loop finished.
+ 2020-06-10 16:09:15,718 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 16:09:15,718 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:09:15,906 - INFO - Deleting lines...
+ 2020-06-10 16:09:15,906 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:09:15,906 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:09:15,906 - DEBUG - Row number is 11
+ 2020-06-10 16:09:15,906 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 16:09:15,906 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:09:15,906 - DEBUG - Row number is 10
+ 2020-06-10 16:09:15,906 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 16:09:15,906 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:09:15,906 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:09:15,906 - DEBUG - Row number is 8
+ 2020-06-10 16:09:15,906 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 16:09:15,906 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:09:15,906 - DEBUG - Row number is 7
+ 2020-06-10 16:09:15,906 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 16:09:15,906 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:09:15,906 - DEBUG - Row number is 6
+ 2020-06-10 16:09:15,906 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 16:09:15,906 - INFO - Deleting is finished.
+ 2020-06-10 16:09:15,906 - INFO - Entity loop finished.
+ 2020-06-10 16:09:16,104 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 16:09:16,104 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:09:16,290 - INFO - Deleting lines...
+ 2020-06-10 16:09:16,290 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:09:16,290 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:09:16,290 - DEBUG - Row number is 11
+ 2020-06-10 16:09:16,290 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 16:09:16,290 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:09:16,290 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:09:16,290 - DEBUG - Row number is 9
+ 2020-06-10 16:09:16,290 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 16:09:16,304 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:09:16,304 - DEBUG - Row number is 8
+ 2020-06-10 16:09:16,304 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 16:09:16,304 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:09:16,304 - DEBUG - Row number is 7
+ 2020-06-10 16:09:16,304 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 16:09:16,305 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:09:16,305 - DEBUG - Row number is 6
+ 2020-06-10 16:09:16,305 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 16:09:16,305 - INFO - Deleting is finished.
+ 2020-06-10 16:09:16,305 - INFO - Entity loop finished.
+ 2020-06-10 16:09:16,508 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 16:09:16,508 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:09:16,689 - INFO - Deleting lines...
+ 2020-06-10 16:09:16,689 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:09:16,689 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:09:16,689 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:09:16,689 - DEBUG - Row number is 10
+ 2020-06-10 16:09:16,689 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 16:09:16,689 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:09:16,689 - DEBUG - Row number is 9
+ 2020-06-10 16:09:16,689 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 16:09:16,689 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:09:16,689 - DEBUG - Row number is 8
+ 2020-06-10 16:09:16,689 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 16:09:16,689 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:09:16,689 - DEBUG - Row number is 7
+ 2020-06-10 16:09:16,689 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 16:09:16,689 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:09:16,689 - DEBUG - Row number is 6
+ 2020-06-10 16:09:16,689 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 16:09:16,689 - INFO - Deleting is finished.
+ 2020-06-10 16:09:16,689 - INFO - Entity loop finished.
+ 2020-06-10 16:10:12,191 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:10:12,191 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:10:12,191 - INFO - Started entity loop.
+ 2020-06-10 16:10:12,191 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:10:12,191 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:10:12,390 - INFO - Deleting lines...
+ 2020-06-10 16:10:12,390 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:10:12,390 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:10:12,390 - DEBUG - Row number is 11
+ 2020-06-10 16:10:12,390 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:10:12,391 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:10:12,391 - DEBUG - Row number is 10
+ 2020-06-10 16:10:12,391 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:10:12,392 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:10:12,392 - DEBUG - Row number is 9
+ 2020-06-10 16:10:12,392 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:10:12,392 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:10:12,392 - DEBUG - Row number is 8
+ 2020-06-10 16:10:12,392 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:10:12,392 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:10:12,392 - DEBUG - Row number is 7
+ 2020-06-10 16:10:12,392 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:10:12,392 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:10:12,392 - INFO - Deleting is finished.
+ 2020-06-10 16:10:12,392 - INFO - Entity loop finished.
+ 2020-06-10 16:10:12,595 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 16:10:12,595 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:10:12,767 - INFO - Deleting lines...
+ 2020-06-10 16:10:12,767 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:10:12,767 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:10:12,767 - DEBUG - Row number is 11
+ 2020-06-10 16:10:12,767 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 16:10:12,767 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:10:12,767 - DEBUG - Row number is 10
+ 2020-06-10 16:10:12,767 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 16:10:12,767 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:10:12,767 - DEBUG - Row number is 9
+ 2020-06-10 16:10:12,767 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 16:10:12,767 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:10:12,767 - DEBUG - Row number is 8
+ 2020-06-10 16:10:12,767 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 16:10:12,767 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:10:12,767 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:10:12,767 - DEBUG - Row number is 6
+ 2020-06-10 16:10:12,767 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 16:10:12,767 - INFO - Deleting is finished.
+ 2020-06-10 16:10:12,767 - INFO - Entity loop finished.
+ 2020-06-10 16:10:12,968 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 16:10:12,968 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:10:13,165 - INFO - Deleting lines...
+ 2020-06-10 16:10:13,165 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:10:13,165 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:10:13,165 - DEBUG - Row number is 11
+ 2020-06-10 16:10:13,165 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 16:10:13,165 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:10:13,165 - DEBUG - Row number is 10
+ 2020-06-10 16:10:13,165 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 16:10:13,166 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:10:13,166 - DEBUG - Row number is 9
+ 2020-06-10 16:10:13,166 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 16:10:13,166 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:10:13,166 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:10:13,166 - DEBUG - Row number is 7
+ 2020-06-10 16:10:13,166 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 16:10:13,167 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:10:13,167 - DEBUG - Row number is 6
+ 2020-06-10 16:10:13,167 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 16:10:13,167 - INFO - Deleting is finished.
+ 2020-06-10 16:10:13,167 - INFO - Entity loop finished.
+ 2020-06-10 16:10:13,361 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 16:10:13,361 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:10:13,539 - INFO - Deleting lines...
+ 2020-06-10 16:10:13,539 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:10:13,539 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:10:13,539 - DEBUG - Row number is 11
+ 2020-06-10 16:10:13,539 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 16:10:13,539 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:10:13,539 - DEBUG - Row number is 10
+ 2020-06-10 16:10:13,539 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 16:10:13,539 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:10:13,539 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:10:13,539 - DEBUG - Row number is 8
+ 2020-06-10 16:10:13,539 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 16:10:13,539 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:10:13,539 - DEBUG - Row number is 7
+ 2020-06-10 16:10:13,539 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 16:10:13,539 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:10:13,539 - DEBUG - Row number is 6
+ 2020-06-10 16:10:13,539 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 16:10:13,539 - INFO - Deleting is finished.
+ 2020-06-10 16:10:13,539 - INFO - Entity loop finished.
+ 2020-06-10 16:10:13,744 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 16:10:13,744 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:10:13,933 - INFO - Deleting lines...
+ 2020-06-10 16:10:13,933 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:10:13,933 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:10:13,933 - DEBUG - Row number is 11
+ 2020-06-10 16:10:13,933 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 16:10:13,933 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:10:13,933 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:10:13,933 - DEBUG - Row number is 9
+ 2020-06-10 16:10:13,933 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 16:10:13,933 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:10:13,933 - DEBUG - Row number is 8
+ 2020-06-10 16:10:13,933 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 16:10:13,933 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:10:13,933 - DEBUG - Row number is 7
+ 2020-06-10 16:10:13,933 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 16:10:13,933 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:10:13,933 - DEBUG - Row number is 6
+ 2020-06-10 16:10:13,933 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 16:10:13,949 - INFO - Deleting is finished.
+ 2020-06-10 16:10:13,949 - INFO - Entity loop finished.
+ 2020-06-10 16:10:14,139 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 16:10:14,139 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:10:14,313 - INFO - Deleting lines...
+ 2020-06-10 16:10:14,313 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:10:14,313 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:10:14,313 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:10:14,313 - DEBUG - Row number is 10
+ 2020-06-10 16:10:14,313 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 16:10:14,313 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:10:14,313 - DEBUG - Row number is 9
+ 2020-06-10 16:10:14,313 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 16:10:14,313 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:10:14,313 - DEBUG - Row number is 8
+ 2020-06-10 16:10:14,313 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 16:10:14,313 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:10:14,313 - DEBUG - Row number is 7
+ 2020-06-10 16:10:14,313 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 16:10:14,313 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:10:14,313 - DEBUG - Row number is 6
+ 2020-06-10 16:10:14,313 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 16:10:14,313 - INFO - Deleting is finished.
+ 2020-06-10 16:10:14,313 - INFO - Entity loop finished.
+ 2020-06-10 16:12:03,154 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:12:03,154 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:12:03,154 - INFO - Started entity loop.
+ 2020-06-10 16:12:03,154 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:12:03,154 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:12:03,347 - INFO - Deleting lines...
+ 2020-06-10 16:12:03,347 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:12:03,347 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:12:03,347 - DEBUG - Row number is 11
+ 2020-06-10 16:12:03,347 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:12:03,348 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:12:03,348 - DEBUG - Row number is 10
+ 2020-06-10 16:12:03,348 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:12:03,348 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:12:03,348 - DEBUG - Row number is 9
+ 2020-06-10 16:12:03,348 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:12:03,349 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:12:03,349 - DEBUG - Row number is 8
+ 2020-06-10 16:12:03,349 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:12:03,349 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:12:03,349 - DEBUG - Row number is 7
+ 2020-06-10 16:12:03,349 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:12:03,349 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:12:03,349 - INFO - Deleting is finished.
+ 2020-06-10 16:12:03,349 - INFO - Entity loop finished.
+ 2020-06-10 16:12:03,544 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 16:12:03,548 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:12:03,732 - INFO - Deleting lines...
+ 2020-06-10 16:12:03,732 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:12:03,732 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:12:03,732 - DEBUG - Row number is 11
+ 2020-06-10 16:12:03,732 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 16:12:03,732 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:12:03,732 - DEBUG - Row number is 10
+ 2020-06-10 16:12:03,732 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 16:12:03,732 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:12:03,732 - DEBUG - Row number is 9
+ 2020-06-10 16:12:03,732 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 16:12:03,732 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:12:03,732 - DEBUG - Row number is 8
+ 2020-06-10 16:12:03,732 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 16:12:03,732 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:12:03,732 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:12:03,732 - DEBUG - Row number is 6
+ 2020-06-10 16:12:03,732 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 16:12:03,732 - INFO - Deleting is finished.
+ 2020-06-10 16:12:03,732 - INFO - Entity loop finished.
+ 2020-06-10 16:12:03,930 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 16:12:03,930 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:12:04,116 - INFO - Deleting lines...
+ 2020-06-10 16:12:04,116 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:12:04,116 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:12:04,116 - DEBUG - Row number is 11
+ 2020-06-10 16:12:04,116 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 16:12:04,116 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:12:04,116 - DEBUG - Row number is 10
+ 2020-06-10 16:12:04,116 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 16:12:04,116 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:12:04,116 - DEBUG - Row number is 9
+ 2020-06-10 16:12:04,116 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 16:12:04,116 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:12:04,116 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:12:04,116 - DEBUG - Row number is 7
+ 2020-06-10 16:12:04,116 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 16:12:04,116 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:12:04,116 - DEBUG - Row number is 6
+ 2020-06-10 16:12:04,116 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 16:12:04,116 - INFO - Deleting is finished.
+ 2020-06-10 16:12:04,116 - INFO - Entity loop finished.
+ 2020-06-10 16:12:04,331 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 16:12:04,331 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:12:04,509 - INFO - Deleting lines...
+ 2020-06-10 16:12:04,509 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:12:04,509 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:12:04,509 - DEBUG - Row number is 11
+ 2020-06-10 16:12:04,509 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 16:12:04,509 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:12:04,509 - DEBUG - Row number is 10
+ 2020-06-10 16:12:04,509 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 16:12:04,509 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:12:04,509 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:12:04,509 - DEBUG - Row number is 8
+ 2020-06-10 16:12:04,509 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 16:12:04,509 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:12:04,509 - DEBUG - Row number is 7
+ 2020-06-10 16:12:04,509 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 16:12:04,509 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:12:04,509 - DEBUG - Row number is 6
+ 2020-06-10 16:12:04,509 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 16:12:04,509 - INFO - Deleting is finished.
+ 2020-06-10 16:12:04,509 - INFO - Entity loop finished.
+ 2020-06-10 16:12:04,714 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 16:12:04,714 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:12:04,895 - INFO - Deleting lines...
+ 2020-06-10 16:12:04,895 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:12:04,895 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:12:04,895 - DEBUG - Row number is 11
+ 2020-06-10 16:12:04,895 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 16:12:04,895 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:12:04,895 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:12:04,895 - DEBUG - Row number is 9
+ 2020-06-10 16:12:04,895 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 16:12:04,895 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:12:04,895 - DEBUG - Row number is 8
+ 2020-06-10 16:12:04,895 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 16:12:04,895 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:12:04,895 - DEBUG - Row number is 7
+ 2020-06-10 16:12:04,895 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 16:12:04,895 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:12:04,895 - DEBUG - Row number is 6
+ 2020-06-10 16:12:04,895 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 16:12:04,895 - INFO - Deleting is finished.
+ 2020-06-10 16:12:04,895 - INFO - Entity loop finished.
+ 2020-06-10 16:12:05,104 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 16:12:05,104 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:12:05,283 - INFO - Deleting lines...
+ 2020-06-10 16:12:05,283 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:12:05,283 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:12:05,283 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:12:05,283 - DEBUG - Row number is 10
+ 2020-06-10 16:12:05,283 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 16:12:05,283 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:12:05,283 - DEBUG - Row number is 9
+ 2020-06-10 16:12:05,283 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 16:12:05,296 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:12:05,296 - DEBUG - Row number is 8
+ 2020-06-10 16:12:05,296 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 16:12:05,296 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:12:05,296 - DEBUG - Row number is 7
+ 2020-06-10 16:12:05,296 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 16:12:05,297 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:12:05,297 - DEBUG - Row number is 6
+ 2020-06-10 16:12:05,297 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 16:12:05,297 - INFO - Deleting is finished.
+ 2020-06-10 16:12:05,297 - INFO - Entity loop finished.
+ 2020-06-10 16:12:43,548 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:12:43,548 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:12:43,549 - INFO - Started entity loop.
+ 2020-06-10 16:12:43,549 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:12:43,549 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:12:43,743 - INFO - Deleting lines...
+ 2020-06-10 16:12:43,743 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:12:43,743 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:12:43,743 - DEBUG - Row number is 11
+ 2020-06-10 16:12:43,743 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:12:43,744 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:12:43,744 - DEBUG - Row number is 10
+ 2020-06-10 16:12:43,744 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:12:43,744 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:12:43,744 - DEBUG - Row number is 9
+ 2020-06-10 16:12:43,744 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:12:43,745 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:12:43,745 - DEBUG - Row number is 8
+ 2020-06-10 16:12:43,745 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:12:43,745 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:12:43,745 - DEBUG - Row number is 7
+ 2020-06-10 16:12:43,745 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:12:43,745 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:12:43,745 - INFO - Deleting is finished.
+ 2020-06-10 16:12:43,745 - INFO - Entity loop finished.
+ 2020-06-10 16:12:43,954 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 16:12:43,954 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:12:44,136 - INFO - Deleting lines...
+ 2020-06-10 16:12:44,136 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:12:44,136 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:12:44,136 - DEBUG - Row number is 11
+ 2020-06-10 16:12:44,136 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 16:12:44,144 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:12:44,144 - DEBUG - Row number is 10
+ 2020-06-10 16:12:44,144 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 16:12:44,144 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:12:44,144 - DEBUG - Row number is 9
+ 2020-06-10 16:12:44,144 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 16:12:44,145 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:12:44,145 - DEBUG - Row number is 8
+ 2020-06-10 16:12:44,145 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 16:12:44,145 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:12:44,145 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:12:44,145 - DEBUG - Row number is 6
+ 2020-06-10 16:12:44,145 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 16:12:44,146 - INFO - Deleting is finished.
+ 2020-06-10 16:12:44,146 - INFO - Entity loop finished.
+ 2020-06-10 16:12:44,348 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 16:12:44,348 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:12:44,539 - INFO - Deleting lines...
+ 2020-06-10 16:12:44,539 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:12:44,539 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:12:44,539 - DEBUG - Row number is 11
+ 2020-06-10 16:12:44,539 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 16:12:44,539 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:12:44,539 - DEBUG - Row number is 10
+ 2020-06-10 16:12:44,539 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 16:12:44,539 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:12:44,539 - DEBUG - Row number is 9
+ 2020-06-10 16:12:44,539 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 16:12:44,539 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:12:44,539 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:12:44,539 - DEBUG - Row number is 7
+ 2020-06-10 16:12:44,539 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 16:12:44,539 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:12:44,539 - DEBUG - Row number is 6
+ 2020-06-10 16:12:44,539 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 16:12:44,539 - INFO - Deleting is finished.
+ 2020-06-10 16:12:44,539 - INFO - Entity loop finished.
+ 2020-06-10 16:12:44,742 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 16:12:44,742 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:12:44,922 - INFO - Deleting lines...
+ 2020-06-10 16:12:44,922 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:12:44,922 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:12:44,922 - DEBUG - Row number is 11
+ 2020-06-10 16:12:44,922 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 16:12:44,922 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:12:44,922 - DEBUG - Row number is 10
+ 2020-06-10 16:12:44,922 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 16:12:44,922 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:12:44,922 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:12:44,922 - DEBUG - Row number is 8
+ 2020-06-10 16:12:44,922 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 16:12:44,924 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:12:44,924 - DEBUG - Row number is 7
+ 2020-06-10 16:12:44,924 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 16:12:44,924 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:12:44,924 - DEBUG - Row number is 6
+ 2020-06-10 16:12:44,924 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 16:12:44,924 - INFO - Deleting is finished.
+ 2020-06-10 16:12:44,924 - INFO - Entity loop finished.
+ 2020-06-10 16:12:45,137 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 16:12:45,137 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:12:45,328 - INFO - Deleting lines...
+ 2020-06-10 16:12:45,328 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:12:45,328 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:12:45,328 - DEBUG - Row number is 11
+ 2020-06-10 16:12:45,328 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 16:12:45,328 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:12:45,328 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:12:45,328 - DEBUG - Row number is 9
+ 2020-06-10 16:12:45,328 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 16:12:45,328 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:12:45,328 - DEBUG - Row number is 8
+ 2020-06-10 16:12:45,328 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 16:12:45,328 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:12:45,328 - DEBUG - Row number is 7
+ 2020-06-10 16:12:45,328 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 16:12:45,328 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:12:45,328 - DEBUG - Row number is 6
+ 2020-06-10 16:12:45,328 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 16:12:45,328 - INFO - Deleting is finished.
+ 2020-06-10 16:12:45,328 - INFO - Entity loop finished.
+ 2020-06-10 16:12:45,538 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 16:12:45,541 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:12:45,732 - INFO - Deleting lines...
+ 2020-06-10 16:12:45,732 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:12:45,732 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:12:45,732 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:12:45,732 - DEBUG - Row number is 10
+ 2020-06-10 16:12:45,732 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 16:12:45,732 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:12:45,732 - DEBUG - Row number is 9
+ 2020-06-10 16:12:45,732 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 16:12:45,732 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:12:45,732 - DEBUG - Row number is 8
+ 2020-06-10 16:12:45,732 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 16:12:45,732 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:12:45,732 - DEBUG - Row number is 7
+ 2020-06-10 16:12:45,732 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 16:12:45,732 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:12:45,732 - DEBUG - Row number is 6
+ 2020-06-10 16:12:45,732 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 16:12:45,732 - INFO - Deleting is finished.
+ 2020-06-10 16:12:45,732 - INFO - Entity loop finished.
+ 2020-06-10 16:13:03,793 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:13:03,793 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:13:03,793 - INFO - Started entity loop.
+ 2020-06-10 16:13:03,794 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:13:03,794 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:13:03,992 - INFO - Deleting lines...
+ 2020-06-10 16:13:03,992 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:13:03,992 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:13:03,992 - DEBUG - Row number is 11
+ 2020-06-10 16:13:03,992 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:13:03,993 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:13:03,993 - DEBUG - Row number is 10
+ 2020-06-10 16:13:03,993 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:13:03,993 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:13:03,993 - DEBUG - Row number is 9
+ 2020-06-10 16:13:03,993 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:13:03,994 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:13:03,994 - DEBUG - Row number is 8
+ 2020-06-10 16:13:03,994 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:13:03,994 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:13:03,994 - DEBUG - Row number is 7
+ 2020-06-10 16:13:03,994 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:13:03,994 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:13:03,994 - INFO - Deleting is finished.
+ 2020-06-10 16:13:03,994 - INFO - Entity loop finished.
+ 2020-06-10 16:13:04,207 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 16:13:04,207 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:13:04,388 - INFO - Deleting lines...
+ 2020-06-10 16:13:04,388 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:13:04,388 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:13:04,388 - DEBUG - Row number is 11
+ 2020-06-10 16:13:04,388 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 16:13:04,388 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:13:04,388 - DEBUG - Row number is 10
+ 2020-06-10 16:13:04,388 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 16:13:04,388 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:13:04,388 - DEBUG - Row number is 9
+ 2020-06-10 16:13:04,388 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 16:13:04,388 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:13:04,388 - DEBUG - Row number is 8
+ 2020-06-10 16:13:04,388 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 16:13:04,388 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:13:04,388 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:13:04,388 - DEBUG - Row number is 6
+ 2020-06-10 16:13:04,388 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 16:13:04,388 - INFO - Deleting is finished.
+ 2020-06-10 16:13:04,388 - INFO - Entity loop finished.
+ 2020-06-10 16:13:04,595 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 16:13:04,595 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:13:04,790 - INFO - Deleting lines...
+ 2020-06-10 16:13:04,790 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:13:04,790 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:13:04,790 - DEBUG - Row number is 11
+ 2020-06-10 16:13:04,790 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 16:13:04,790 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:13:04,790 - DEBUG - Row number is 10
+ 2020-06-10 16:13:04,790 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 16:13:04,790 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:13:04,790 - DEBUG - Row number is 9
+ 2020-06-10 16:13:04,790 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 16:13:04,790 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:13:04,790 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:13:04,790 - DEBUG - Row number is 7
+ 2020-06-10 16:13:04,790 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 16:13:04,790 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:13:04,790 - DEBUG - Row number is 6
+ 2020-06-10 16:13:04,790 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 16:13:04,790 - INFO - Deleting is finished.
+ 2020-06-10 16:13:04,790 - INFO - Entity loop finished.
+ 2020-06-10 16:13:05,003 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 16:13:05,003 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:13:05,183 - INFO - Deleting lines...
+ 2020-06-10 16:13:05,183 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:13:05,183 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:13:05,183 - DEBUG - Row number is 11
+ 2020-06-10 16:13:05,183 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 16:13:05,183 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:13:05,183 - DEBUG - Row number is 10
+ 2020-06-10 16:13:05,183 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 16:13:05,183 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:13:05,183 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:13:05,183 - DEBUG - Row number is 8
+ 2020-06-10 16:13:05,183 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 16:13:05,183 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:13:05,183 - DEBUG - Row number is 7
+ 2020-06-10 16:13:05,183 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 16:13:05,183 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:13:05,183 - DEBUG - Row number is 6
+ 2020-06-10 16:13:05,183 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 16:13:05,183 - INFO - Deleting is finished.
+ 2020-06-10 16:13:05,183 - INFO - Entity loop finished.
+ 2020-06-10 16:13:05,404 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 16:13:05,404 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:13:05,587 - INFO - Deleting lines...
+ 2020-06-10 16:13:05,587 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:13:05,587 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:13:05,587 - DEBUG - Row number is 11
+ 2020-06-10 16:13:05,587 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 16:13:05,587 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:13:05,587 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:13:05,587 - DEBUG - Row number is 9
+ 2020-06-10 16:13:05,587 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 16:13:05,587 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:13:05,587 - DEBUG - Row number is 8
+ 2020-06-10 16:13:05,587 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 16:13:05,587 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:13:05,587 - DEBUG - Row number is 7
+ 2020-06-10 16:13:05,587 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 16:13:05,587 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:13:05,587 - DEBUG - Row number is 6
+ 2020-06-10 16:13:05,587 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 16:13:05,587 - INFO - Deleting is finished.
+ 2020-06-10 16:13:05,587 - INFO - Entity loop finished.
+ 2020-06-10 16:13:05,805 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 16:13:05,805 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:13:05,996 - INFO - Deleting lines...
+ 2020-06-10 16:13:05,996 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:13:05,996 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:13:05,996 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:13:05,996 - DEBUG - Row number is 10
+ 2020-06-10 16:13:05,996 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 16:13:05,996 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:13:05,996 - DEBUG - Row number is 9
+ 2020-06-10 16:13:05,996 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 16:13:05,996 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:13:05,996 - DEBUG - Row number is 8
+ 2020-06-10 16:13:05,996 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 16:13:05,996 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:13:05,996 - DEBUG - Row number is 7
+ 2020-06-10 16:13:05,996 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 16:13:05,996 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:13:05,996 - DEBUG - Row number is 6
+ 2020-06-10 16:13:05,996 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 16:13:05,996 - INFO - Deleting is finished.
+ 2020-06-10 16:13:05,996 - INFO - Entity loop finished.
+ 2020-06-10 16:19:11,004 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:19:11,004 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:19:11,004 - INFO - Started entity loop.
+ 2020-06-10 16:19:11,004 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:19:11,004 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:11,197 - INFO - Deleting lines...
+ 2020-06-10 16:19:11,197 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:11,197 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:11,197 - DEBUG - Row number is 11
+ 2020-06-10 16:19:11,197 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:19:11,198 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:11,198 - DEBUG - Row number is 10
+ 2020-06-10 16:19:11,198 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:19:11,198 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:11,198 - DEBUG - Row number is 9
+ 2020-06-10 16:19:11,198 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:19:11,199 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:11,199 - DEBUG - Row number is 8
+ 2020-06-10 16:19:11,199 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:19:11,199 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:11,199 - DEBUG - Row number is 7
+ 2020-06-10 16:19:11,199 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:19:11,199 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:11,199 - INFO - Deleting is finished.
+ 2020-06-10 16:19:11,199 - INFO - Entity loop finished.
+ 2020-06-10 16:19:11,400 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 16:19:11,400 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:11,575 - INFO - Deleting lines...
+ 2020-06-10 16:19:11,575 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:11,575 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:11,575 - DEBUG - Row number is 11
+ 2020-06-10 16:19:11,575 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 16:19:11,575 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:11,575 - DEBUG - Row number is 10
+ 2020-06-10 16:19:11,575 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 16:19:11,575 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:11,575 - DEBUG - Row number is 9
+ 2020-06-10 16:19:11,575 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 16:19:11,575 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:11,575 - DEBUG - Row number is 8
+ 2020-06-10 16:19:11,575 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 16:19:11,575 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:11,575 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:11,590 - DEBUG - Row number is 6
+ 2020-06-10 16:19:11,590 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 16:19:11,590 - INFO - Deleting is finished.
+ 2020-06-10 16:19:11,590 - INFO - Entity loop finished.
+ 2020-06-10 16:19:11,769 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 16:19:11,769 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:11,971 - INFO - Deleting lines...
+ 2020-06-10 16:19:11,971 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:11,971 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:11,971 - DEBUG - Row number is 11
+ 2020-06-10 16:19:11,971 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 16:19:11,971 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:11,971 - DEBUG - Row number is 10
+ 2020-06-10 16:19:11,971 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 16:19:11,971 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:11,971 - DEBUG - Row number is 9
+ 2020-06-10 16:19:11,971 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 16:19:11,971 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:11,971 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:11,971 - DEBUG - Row number is 7
+ 2020-06-10 16:19:11,971 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 16:19:11,971 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:11,971 - DEBUG - Row number is 6
+ 2020-06-10 16:19:11,971 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 16:19:11,971 - INFO - Deleting is finished.
+ 2020-06-10 16:19:11,971 - INFO - Entity loop finished.
+ 2020-06-10 16:19:12,203 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 16:19:12,203 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:12,377 - INFO - Deleting lines...
+ 2020-06-10 16:19:12,377 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:12,377 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:12,377 - DEBUG - Row number is 11
+ 2020-06-10 16:19:12,377 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 16:19:12,377 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:12,377 - DEBUG - Row number is 10
+ 2020-06-10 16:19:12,377 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 16:19:12,377 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:12,377 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:12,377 - DEBUG - Row number is 8
+ 2020-06-10 16:19:12,377 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 16:19:12,377 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:12,377 - DEBUG - Row number is 7
+ 2020-06-10 16:19:12,377 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 16:19:12,377 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:12,377 - DEBUG - Row number is 6
+ 2020-06-10 16:19:12,377 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 16:19:12,377 - INFO - Deleting is finished.
+ 2020-06-10 16:19:12,377 - INFO - Entity loop finished.
+ 2020-06-10 16:19:12,575 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 16:19:12,575 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:12,783 - INFO - Deleting lines...
+ 2020-06-10 16:19:12,783 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:12,783 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:12,783 - DEBUG - Row number is 11
+ 2020-06-10 16:19:12,783 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 16:19:12,783 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:12,783 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:12,783 - DEBUG - Row number is 9
+ 2020-06-10 16:19:12,783 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 16:19:12,783 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:12,783 - DEBUG - Row number is 8
+ 2020-06-10 16:19:12,783 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 16:19:12,783 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:12,783 - DEBUG - Row number is 7
+ 2020-06-10 16:19:12,783 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 16:19:12,783 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:12,783 - DEBUG - Row number is 6
+ 2020-06-10 16:19:12,783 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 16:19:12,783 - INFO - Deleting is finished.
+ 2020-06-10 16:19:12,783 - INFO - Entity loop finished.
+ 2020-06-10 16:19:13,002 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 16:19:13,002 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:13,197 - INFO - Deleting lines...
+ 2020-06-10 16:19:13,197 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:13,197 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:13,197 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:13,197 - DEBUG - Row number is 10
+ 2020-06-10 16:19:13,197 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 16:19:13,197 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:13,197 - DEBUG - Row number is 9
+ 2020-06-10 16:19:13,197 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 16:19:13,197 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:13,197 - DEBUG - Row number is 8
+ 2020-06-10 16:19:13,197 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 16:19:13,197 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:13,197 - DEBUG - Row number is 7
+ 2020-06-10 16:19:13,197 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 16:19:13,197 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:13,197 - DEBUG - Row number is 6
+ 2020-06-10 16:19:13,197 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 16:19:13,197 - INFO - Deleting is finished.
+ 2020-06-10 16:19:13,197 - INFO - Entity loop finished.
+ 2020-06-10 16:19:26,745 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:19:26,745 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:19:26,745 - INFO - Started entity loop.
+ 2020-06-10 16:19:26,746 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:19:26,746 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:26,940 - INFO - Deleting lines...
+ 2020-06-10 16:19:26,940 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:26,940 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:26,940 - DEBUG - Row number is 11
+ 2020-06-10 16:19:26,940 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:19:26,940 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:26,940 - DEBUG - Row number is 10
+ 2020-06-10 16:19:26,941 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:19:26,941 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:26,941 - DEBUG - Row number is 9
+ 2020-06-10 16:19:26,941 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:19:26,941 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:26,941 - DEBUG - Row number is 8
+ 2020-06-10 16:19:26,942 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:19:26,942 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:26,942 - DEBUG - Row number is 7
+ 2020-06-10 16:19:26,942 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:19:26,942 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:26,942 - INFO - Deleting is finished.
+ 2020-06-10 16:19:26,942 - INFO - Entity loop finished.
+ 2020-06-10 16:19:27,148 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 16:19:27,148 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:27,335 - INFO - Deleting lines...
+ 2020-06-10 16:19:27,335 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:27,335 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:27,335 - DEBUG - Row number is 11
+ 2020-06-10 16:19:27,335 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 16:19:27,335 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:27,335 - DEBUG - Row number is 10
+ 2020-06-10 16:19:27,335 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 16:19:27,335 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:27,335 - DEBUG - Row number is 9
+ 2020-06-10 16:19:27,335 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 16:19:27,337 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:27,337 - DEBUG - Row number is 8
+ 2020-06-10 16:19:27,337 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 16:19:27,337 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:27,337 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:27,337 - DEBUG - Row number is 6
+ 2020-06-10 16:19:27,337 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 16:19:27,337 - INFO - Deleting is finished.
+ 2020-06-10 16:19:27,337 - INFO - Entity loop finished.
+ 2020-06-10 16:19:27,531 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 16:19:27,531 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:27,741 - INFO - Deleting lines...
+ 2020-06-10 16:19:27,741 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:27,741 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:27,741 - DEBUG - Row number is 11
+ 2020-06-10 16:19:27,741 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 16:19:27,742 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:27,742 - DEBUG - Row number is 10
+ 2020-06-10 16:19:27,742 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 16:19:27,742 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:27,742 - DEBUG - Row number is 9
+ 2020-06-10 16:19:27,742 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 16:19:27,742 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:27,742 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:27,742 - DEBUG - Row number is 7
+ 2020-06-10 16:19:27,742 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 16:19:27,742 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:27,742 - DEBUG - Row number is 6
+ 2020-06-10 16:19:27,742 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 16:19:27,742 - INFO - Deleting is finished.
+ 2020-06-10 16:19:27,742 - INFO - Entity loop finished.
+ 2020-06-10 16:19:27,937 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 16:19:27,937 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:28,124 - INFO - Deleting lines...
+ 2020-06-10 16:19:28,124 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:28,124 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:28,124 - DEBUG - Row number is 11
+ 2020-06-10 16:19:28,124 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 16:19:28,124 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:28,124 - DEBUG - Row number is 10
+ 2020-06-10 16:19:28,124 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 16:19:28,124 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:28,124 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:28,124 - DEBUG - Row number is 8
+ 2020-06-10 16:19:28,124 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 16:19:28,124 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:28,124 - DEBUG - Row number is 7
+ 2020-06-10 16:19:28,127 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 16:19:28,127 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:28,127 - DEBUG - Row number is 6
+ 2020-06-10 16:19:28,127 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 16:19:28,127 - INFO - Deleting is finished.
+ 2020-06-10 16:19:28,127 - INFO - Entity loop finished.
+ 2020-06-10 16:19:28,320 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 16:19:28,320 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:28,505 - INFO - Deleting lines...
+ 2020-06-10 16:19:28,505 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:28,505 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:28,513 - DEBUG - Row number is 11
+ 2020-06-10 16:19:28,513 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 16:19:28,513 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:28,513 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:28,513 - DEBUG - Row number is 9
+ 2020-06-10 16:19:28,513 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 16:19:28,513 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:28,513 - DEBUG - Row number is 8
+ 2020-06-10 16:19:28,513 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 16:19:28,513 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:28,513 - DEBUG - Row number is 7
+ 2020-06-10 16:19:28,513 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 16:19:28,513 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:28,516 - DEBUG - Row number is 6
+ 2020-06-10 16:19:28,516 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 16:19:28,516 - INFO - Deleting is finished.
+ 2020-06-10 16:19:28,516 - INFO - Entity loop finished.
+ 2020-06-10 16:19:28,722 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 16:19:28,722 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:28,922 - INFO - Deleting lines...
+ 2020-06-10 16:19:28,922 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:28,922 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:28,922 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:28,923 - DEBUG - Row number is 10
+ 2020-06-10 16:19:28,923 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 16:19:28,923 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:28,924 - DEBUG - Row number is 9
+ 2020-06-10 16:19:28,924 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 16:19:28,924 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:28,924 - DEBUG - Row number is 8
+ 2020-06-10 16:19:28,924 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 16:19:28,925 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:28,925 - DEBUG - Row number is 7
+ 2020-06-10 16:19:28,925 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 16:19:28,926 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:28,926 - DEBUG - Row number is 6
+ 2020-06-10 16:19:28,926 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 16:19:28,926 - INFO - Deleting is finished.
+ 2020-06-10 16:19:28,926 - INFO - Entity loop finished.
+ 2020-06-10 16:19:39,674 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:19:39,674 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:19:39,674 - INFO - Started entity loop.
+ 2020-06-10 16:19:39,674 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:19:39,675 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:39,878 - INFO - Deleting lines...
+ 2020-06-10 16:19:39,878 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:39,878 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:39,878 - DEBUG - Row number is 11
+ 2020-06-10 16:19:39,878 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:19:39,879 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:39,879 - DEBUG - Row number is 10
+ 2020-06-10 16:19:39,879 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:19:39,879 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:39,879 - DEBUG - Row number is 9
+ 2020-06-10 16:19:39,879 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:19:39,879 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:39,879 - DEBUG - Row number is 8
+ 2020-06-10 16:19:39,879 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:19:39,879 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:39,879 - DEBUG - Row number is 7
+ 2020-06-10 16:19:39,879 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:19:39,879 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:39,879 - INFO - Deleting is finished.
+ 2020-06-10 16:19:39,879 - INFO - Entity loop finished.
+ 2020-06-10 16:19:52,190 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:19:52,190 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:19:52,191 - INFO - Started entity loop.
+ 2020-06-10 16:19:52,191 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:19:52,191 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:52,387 - INFO - Deleting lines...
+ 2020-06-10 16:19:52,387 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:52,387 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:52,388 - DEBUG - Row number is 11
+ 2020-06-10 16:19:52,388 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:19:52,388 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:52,388 - DEBUG - Row number is 10
+ 2020-06-10 16:19:52,389 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:19:52,389 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:52,389 - DEBUG - Row number is 9
+ 2020-06-10 16:19:52,389 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:19:52,389 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:52,389 - DEBUG - Row number is 8
+ 2020-06-10 16:19:52,389 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:19:52,389 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:52,389 - DEBUG - Row number is 7
+ 2020-06-10 16:19:52,389 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:19:52,389 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:19:52,389 - INFO - Deleting is finished.
+ 2020-06-10 16:19:52,389 - INFO - Entity loop finished.
+ 2020-06-10 16:19:52,592 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 16:19:52,592 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:52,790 - INFO - Deleting lines...
+ 2020-06-10 16:19:52,790 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:52,790 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:52,790 - DEBUG - Row number is 11
+ 2020-06-10 16:19:52,790 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 16:19:52,790 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:52,790 - DEBUG - Row number is 10
+ 2020-06-10 16:19:52,790 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 16:19:52,790 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:52,790 - DEBUG - Row number is 9
+ 2020-06-10 16:19:52,790 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 16:19:52,790 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:52,790 - DEBUG - Row number is 8
+ 2020-06-10 16:19:52,790 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 16:19:52,790 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:52,790 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:19:52,790 - DEBUG - Row number is 6
+ 2020-06-10 16:19:52,790 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 16:19:52,790 - INFO - Deleting is finished.
+ 2020-06-10 16:19:52,790 - INFO - Entity loop finished.
+ 2020-06-10 16:19:52,993 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 16:19:52,993 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:53,204 - INFO - Deleting lines...
+ 2020-06-10 16:19:53,204 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:53,204 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:53,204 - DEBUG - Row number is 11
+ 2020-06-10 16:19:53,204 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 16:19:53,204 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:53,204 - DEBUG - Row number is 10
+ 2020-06-10 16:19:53,204 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 16:19:53,204 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:53,204 - DEBUG - Row number is 9
+ 2020-06-10 16:19:53,204 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 16:19:53,204 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:53,204 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:53,204 - DEBUG - Row number is 7
+ 2020-06-10 16:19:53,204 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 16:19:53,204 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:19:53,204 - DEBUG - Row number is 6
+ 2020-06-10 16:19:53,204 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 16:19:53,204 - INFO - Deleting is finished.
+ 2020-06-10 16:19:53,204 - INFO - Entity loop finished.
+ 2020-06-10 16:19:53,402 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 16:19:53,402 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:53,588 - INFO - Deleting lines...
+ 2020-06-10 16:19:53,588 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:53,588 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:53,588 - DEBUG - Row number is 11
+ 2020-06-10 16:19:53,588 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 16:19:53,588 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:53,588 - DEBUG - Row number is 10
+ 2020-06-10 16:19:53,588 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 16:19:53,588 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:53,588 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:53,588 - DEBUG - Row number is 8
+ 2020-06-10 16:19:53,588 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 16:19:53,588 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:53,588 - DEBUG - Row number is 7
+ 2020-06-10 16:19:53,588 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 16:19:53,588 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:19:53,588 - DEBUG - Row number is 6
+ 2020-06-10 16:19:53,588 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 16:19:53,588 - INFO - Deleting is finished.
+ 2020-06-10 16:19:53,588 - INFO - Entity loop finished.
+ 2020-06-10 16:19:53,806 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 16:19:53,806 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:53,999 - INFO - Deleting lines...
+ 2020-06-10 16:19:53,999 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:53,999 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:53,999 - DEBUG - Row number is 11
+ 2020-06-10 16:19:53,999 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 16:19:53,999 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:53,999 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:53,999 - DEBUG - Row number is 9
+ 2020-06-10 16:19:53,999 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 16:19:53,999 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:53,999 - DEBUG - Row number is 8
+ 2020-06-10 16:19:53,999 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 16:19:53,999 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:53,999 - DEBUG - Row number is 7
+ 2020-06-10 16:19:53,999 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 16:19:53,999 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:19:53,999 - DEBUG - Row number is 6
+ 2020-06-10 16:19:53,999 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 16:19:53,999 - INFO - Deleting is finished.
+ 2020-06-10 16:19:53,999 - INFO - Entity loop finished.
+ 2020-06-10 16:19:54,223 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 16:19:54,223 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:19:54,405 - INFO - Deleting lines...
+ 2020-06-10 16:19:54,405 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:54,405 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:54,405 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:54,405 - DEBUG - Row number is 10
+ 2020-06-10 16:19:54,405 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 16:19:54,405 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:54,405 - DEBUG - Row number is 9
+ 2020-06-10 16:19:54,405 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 16:19:54,405 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:54,405 - DEBUG - Row number is 8
+ 2020-06-10 16:19:54,405 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 16:19:54,405 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:54,405 - DEBUG - Row number is 7
+ 2020-06-10 16:19:54,405 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 16:19:54,405 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:19:54,405 - DEBUG - Row number is 6
+ 2020-06-10 16:19:54,405 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 16:19:54,405 - INFO - Deleting is finished.
+ 2020-06-10 16:19:54,405 - INFO - Entity loop finished.
+ 2020-06-10 16:20:09,375 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:20:09,375 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:20:09,375 - INFO - Started entity loop.
+ 2020-06-10 16:20:09,375 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:20:09,375 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:20:09,566 - INFO - Deleting lines...
+ 2020-06-10 16:20:09,566 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:20:09,566 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:20:09,567 - DEBUG - Row number is 11
+ 2020-06-10 16:20:09,567 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:20:09,567 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:20:09,567 - DEBUG - Row number is 10
+ 2020-06-10 16:20:09,568 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:20:09,568 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:20:09,568 - DEBUG - Row number is 9
+ 2020-06-10 16:20:09,568 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:20:09,568 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:20:09,568 - DEBUG - Row number is 8
+ 2020-06-10 16:20:09,568 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:20:09,568 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:20:09,568 - DEBUG - Row number is 7
+ 2020-06-10 16:20:09,568 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:20:09,568 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:20:09,568 - INFO - Deleting is finished.
+ 2020-06-10 16:20:09,568 - INFO - Entity loop finished.
+ 2020-06-10 16:20:09,767 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 16:20:09,767 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:20:09,948 - INFO - Deleting lines...
+ 2020-06-10 16:20:09,948 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:20:09,948 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:20:09,948 - DEBUG - Row number is 11
+ 2020-06-10 16:20:09,948 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 16:20:09,948 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:20:09,948 - DEBUG - Row number is 10
+ 2020-06-10 16:20:09,948 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 16:20:09,948 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:20:09,948 - DEBUG - Row number is 9
+ 2020-06-10 16:20:09,948 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 16:20:09,948 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:20:09,948 - DEBUG - Row number is 8
+ 2020-06-10 16:20:09,948 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 16:20:09,948 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:20:09,948 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:20:09,948 - DEBUG - Row number is 6
+ 2020-06-10 16:20:09,948 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 16:20:09,948 - INFO - Deleting is finished.
+ 2020-06-10 16:20:09,948 - INFO - Entity loop finished.
+ 2020-06-10 16:20:10,151 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 16:20:10,151 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:20:10,343 - INFO - Deleting lines...
+ 2020-06-10 16:20:10,343 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:20:10,343 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:20:10,343 - DEBUG - Row number is 11
+ 2020-06-10 16:20:10,343 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 16:20:10,343 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:20:10,343 - DEBUG - Row number is 10
+ 2020-06-10 16:20:10,343 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 16:20:10,343 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:20:10,343 - DEBUG - Row number is 9
+ 2020-06-10 16:20:10,343 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 16:20:10,343 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:20:10,343 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:20:10,343 - DEBUG - Row number is 7
+ 2020-06-10 16:20:10,343 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 16:20:10,343 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:20:10,343 - DEBUG - Row number is 6
+ 2020-06-10 16:20:10,343 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 16:20:10,343 - INFO - Deleting is finished.
+ 2020-06-10 16:20:10,343 - INFO - Entity loop finished.
+ 2020-06-10 16:20:10,567 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 16:20:10,567 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:20:10,752 - INFO - Deleting lines...
+ 2020-06-10 16:20:10,752 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:20:10,752 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:20:10,752 - DEBUG - Row number is 11
+ 2020-06-10 16:20:10,752 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 16:20:10,752 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:20:10,752 - DEBUG - Row number is 10
+ 2020-06-10 16:20:10,752 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 16:20:10,752 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:20:10,752 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:20:10,752 - DEBUG - Row number is 8
+ 2020-06-10 16:20:10,752 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 16:20:10,752 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:20:10,752 - DEBUG - Row number is 7
+ 2020-06-10 16:20:10,752 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 16:20:10,752 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:20:10,752 - DEBUG - Row number is 6
+ 2020-06-10 16:20:10,752 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 16:20:10,752 - INFO - Deleting is finished.
+ 2020-06-10 16:20:10,752 - INFO - Entity loop finished.
+ 2020-06-10 16:20:10,950 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 16:20:10,950 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:20:11,136 - INFO - Deleting lines...
+ 2020-06-10 16:20:11,136 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:20:11,136 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:20:11,136 - DEBUG - Row number is 11
+ 2020-06-10 16:20:11,136 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 16:20:11,136 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:20:11,136 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:20:11,136 - DEBUG - Row number is 9
+ 2020-06-10 16:20:11,136 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 16:20:11,136 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:20:11,136 - DEBUG - Row number is 8
+ 2020-06-10 16:20:11,136 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 16:20:11,136 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:20:11,136 - DEBUG - Row number is 7
+ 2020-06-10 16:20:11,136 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 16:20:11,136 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:20:11,136 - DEBUG - Row number is 6
+ 2020-06-10 16:20:11,136 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 16:20:11,136 - INFO - Deleting is finished.
+ 2020-06-10 16:20:11,136 - INFO - Entity loop finished.
+ 2020-06-10 16:20:11,362 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 16:20:11,362 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:20:11,564 - INFO - Deleting lines...
+ 2020-06-10 16:20:11,564 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:20:11,564 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:20:11,564 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:20:11,564 - DEBUG - Row number is 10
+ 2020-06-10 16:20:11,564 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 16:20:11,564 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:20:11,564 - DEBUG - Row number is 9
+ 2020-06-10 16:20:11,564 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 16:20:11,564 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:20:11,564 - DEBUG - Row number is 8
+ 2020-06-10 16:20:11,564 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 16:20:11,564 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:20:11,564 - DEBUG - Row number is 7
+ 2020-06-10 16:20:11,564 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 16:20:11,564 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:20:11,564 - DEBUG - Row number is 6
+ 2020-06-10 16:20:11,564 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 16:20:11,564 - INFO - Deleting is finished.
+ 2020-06-10 16:20:11,564 - INFO - Entity loop finished.
+ 2020-06-10 16:24:18,668 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:24:18,668 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:24:18,668 - INFO - Started entity loop.
+ 2020-06-10 16:24:18,668 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:24:18,669 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:24:18,872 - INFO - Deleting lines...
+ 2020-06-10 16:24:18,872 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:24:18,872 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:24:18,872 - DEBUG - Row number is 11
+ 2020-06-10 16:24:18,872 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:24:18,873 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:24:18,873 - DEBUG - Row number is 10
+ 2020-06-10 16:24:18,873 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:24:18,873 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:24:18,873 - DEBUG - Row number is 9
+ 2020-06-10 16:24:18,873 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:24:18,874 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:24:18,874 - DEBUG - Row number is 8
+ 2020-06-10 16:24:18,874 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:24:18,874 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:24:18,874 - DEBUG - Row number is 7
+ 2020-06-10 16:24:18,874 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:24:18,874 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:24:18,874 - INFO - Deleting is finished.
+ 2020-06-10 16:24:18,874 - INFO - Entity loop finished.
+ 2020-06-10 16:24:19,086 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 16:24:19,086 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:24:19,276 - INFO - Deleting lines...
+ 2020-06-10 16:24:19,276 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:24:19,276 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:24:19,276 - DEBUG - Row number is 11
+ 2020-06-10 16:24:19,276 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 16:24:19,276 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:24:19,276 - DEBUG - Row number is 10
+ 2020-06-10 16:24:19,276 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 16:24:19,276 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:24:19,276 - DEBUG - Row number is 9
+ 2020-06-10 16:24:19,276 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 16:24:19,276 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:24:19,276 - DEBUG - Row number is 8
+ 2020-06-10 16:24:19,276 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 16:24:19,276 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:24:19,276 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:24:19,276 - DEBUG - Row number is 6
+ 2020-06-10 16:24:19,276 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 16:24:19,276 - INFO - Deleting is finished.
+ 2020-06-10 16:24:19,276 - INFO - Entity loop finished.
+ 2020-06-10 16:24:19,486 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 16:24:19,486 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:24:19,692 - INFO - Deleting lines...
+ 2020-06-10 16:24:19,692 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:24:19,692 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:24:19,692 - DEBUG - Row number is 11
+ 2020-06-10 16:24:19,692 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 16:24:19,692 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:24:19,692 - DEBUG - Row number is 10
+ 2020-06-10 16:24:19,692 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 16:24:19,692 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:24:19,692 - DEBUG - Row number is 9
+ 2020-06-10 16:24:19,692 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 16:24:19,692 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:24:19,692 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:24:19,692 - DEBUG - Row number is 7
+ 2020-06-10 16:24:19,692 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 16:24:19,692 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:24:19,692 - DEBUG - Row number is 6
+ 2020-06-10 16:24:19,692 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 16:24:19,692 - INFO - Deleting is finished.
+ 2020-06-10 16:24:19,692 - INFO - Entity loop finished.
+ 2020-06-10 16:24:19,907 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 16:24:19,907 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:24:20,084 - INFO - Deleting lines...
+ 2020-06-10 16:24:20,084 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:24:20,084 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:24:20,084 - DEBUG - Row number is 11
+ 2020-06-10 16:24:20,084 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 16:24:20,084 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:24:20,084 - DEBUG - Row number is 10
+ 2020-06-10 16:24:20,088 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 16:24:20,088 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:24:20,088 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:24:20,088 - DEBUG - Row number is 8
+ 2020-06-10 16:24:20,088 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 16:24:20,088 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:24:20,088 - DEBUG - Row number is 7
+ 2020-06-10 16:24:20,089 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 16:24:20,089 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:24:20,089 - DEBUG - Row number is 6
+ 2020-06-10 16:24:20,089 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 16:24:20,089 - INFO - Deleting is finished.
+ 2020-06-10 16:24:20,089 - INFO - Entity loop finished.
+ 2020-06-10 16:24:20,291 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 16:24:20,291 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:24:20,483 - INFO - Deleting lines...
+ 2020-06-10 16:24:20,483 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:24:20,483 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:24:20,483 - DEBUG - Row number is 11
+ 2020-06-10 16:24:20,483 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 16:24:20,483 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:24:20,483 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:24:20,483 - DEBUG - Row number is 9
+ 2020-06-10 16:24:20,483 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 16:24:20,483 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:24:20,483 - DEBUG - Row number is 8
+ 2020-06-10 16:24:20,483 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 16:24:20,483 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:24:20,483 - DEBUG - Row number is 7
+ 2020-06-10 16:24:20,483 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 16:24:20,483 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:24:20,483 - DEBUG - Row number is 6
+ 2020-06-10 16:24:20,483 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 16:24:20,483 - INFO - Deleting is finished.
+ 2020-06-10 16:24:20,483 - INFO - Entity loop finished.
+ 2020-06-10 16:24:20,695 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 16:24:20,695 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:24:20,884 - INFO - Deleting lines...
+ 2020-06-10 16:24:20,884 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:24:20,886 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:24:20,886 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:24:20,886 - DEBUG - Row number is 10
+ 2020-06-10 16:24:20,886 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 16:24:20,886 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:24:20,886 - DEBUG - Row number is 9
+ 2020-06-10 16:24:20,886 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 16:24:20,886 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:24:20,886 - DEBUG - Row number is 8
+ 2020-06-10 16:24:20,886 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 16:24:20,886 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:24:20,886 - DEBUG - Row number is 7
+ 2020-06-10 16:24:20,886 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 16:24:20,886 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:24:20,886 - DEBUG - Row number is 6
+ 2020-06-10 16:24:20,886 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 16:24:20,886 - INFO - Deleting is finished.
+ 2020-06-10 16:24:20,886 - INFO - Entity loop finished.
+ 2020-06-10 16:24:47,912 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:24:47,912 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:24:47,912 - INFO - Started entity loop.
+ 2020-06-10 16:24:47,913 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:24:47,913 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:24:48,102 - INFO - Deleting lines...
+ 2020-06-10 16:24:48,102 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:24:48,102 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:24:48,102 - DEBUG - Row number is 11
+ 2020-06-10 16:24:48,102 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:24:48,102 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:24:48,102 - DEBUG - Row number is 10
+ 2020-06-10 16:24:48,102 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:24:48,103 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:24:48,103 - DEBUG - Row number is 9
+ 2020-06-10 16:24:48,103 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:24:48,103 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:24:48,103 - DEBUG - Row number is 8
+ 2020-06-10 16:24:48,103 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:24:48,104 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:24:48,105 - DEBUG - Row number is 7
+ 2020-06-10 16:24:48,105 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:24:48,105 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:24:48,105 - INFO - Deleting is finished.
+ 2020-06-10 16:24:48,105 - INFO - Entity loop finished.
+ 2020-06-10 16:24:48,297 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 16:24:48,297 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:24:48,492 - INFO - Deleting lines...
+ 2020-06-10 16:24:48,492 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:24:48,492 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:24:48,492 - DEBUG - Row number is 11
+ 2020-06-10 16:24:48,492 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 16:24:48,492 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:24:48,492 - DEBUG - Row number is 10
+ 2020-06-10 16:24:48,492 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 16:24:48,492 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:24:48,492 - DEBUG - Row number is 9
+ 2020-06-10 16:24:48,492 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 16:24:48,492 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:24:48,492 - DEBUG - Row number is 8
+ 2020-06-10 16:24:48,492 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 16:24:48,492 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:24:48,492 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:24:48,492 - DEBUG - Row number is 6
+ 2020-06-10 16:24:48,492 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 16:24:48,492 - INFO - Deleting is finished.
+ 2020-06-10 16:24:48,492 - INFO - Entity loop finished.
+ 2020-06-10 16:24:48,682 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 16:24:48,682 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:24:48,876 - INFO - Deleting lines...
+ 2020-06-10 16:24:48,876 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:24:48,876 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:24:48,876 - DEBUG - Row number is 11
+ 2020-06-10 16:24:48,876 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 16:24:48,876 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:24:48,876 - DEBUG - Row number is 10
+ 2020-06-10 16:24:48,876 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 16:24:48,876 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:24:48,876 - DEBUG - Row number is 9
+ 2020-06-10 16:24:48,876 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 16:24:48,876 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:24:48,876 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:24:48,876 - DEBUG - Row number is 7
+ 2020-06-10 16:24:48,876 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 16:24:48,876 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:24:48,876 - DEBUG - Row number is 6
+ 2020-06-10 16:24:48,876 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 16:24:48,876 - INFO - Deleting is finished.
+ 2020-06-10 16:24:48,876 - INFO - Entity loop finished.
+ 2020-06-10 16:24:49,074 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 16:24:49,074 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:24:49,252 - INFO - Deleting lines...
+ 2020-06-10 16:24:49,252 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:24:49,252 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:24:49,252 - DEBUG - Row number is 11
+ 2020-06-10 16:24:49,252 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 16:24:49,252 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:24:49,252 - DEBUG - Row number is 10
+ 2020-06-10 16:24:49,252 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 16:24:49,252 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:24:49,252 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:24:49,252 - DEBUG - Row number is 8
+ 2020-06-10 16:24:49,252 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 16:24:49,252 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:24:49,252 - DEBUG - Row number is 7
+ 2020-06-10 16:24:49,252 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 16:24:49,252 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:24:49,252 - DEBUG - Row number is 6
+ 2020-06-10 16:24:49,252 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 16:24:49,252 - INFO - Deleting is finished.
+ 2020-06-10 16:24:49,252 - INFO - Entity loop finished.
+ 2020-06-10 16:24:49,441 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 16:24:49,441 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:24:49,654 - INFO - Deleting lines...
+ 2020-06-10 16:24:49,654 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:24:49,654 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:24:49,654 - DEBUG - Row number is 11
+ 2020-06-10 16:24:49,654 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 16:24:49,655 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:24:49,655 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:24:49,655 - DEBUG - Row number is 9
+ 2020-06-10 16:24:49,655 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 16:24:49,656 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:24:49,656 - DEBUG - Row number is 8
+ 2020-06-10 16:24:49,656 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 16:24:49,656 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:24:49,656 - DEBUG - Row number is 7
+ 2020-06-10 16:24:49,656 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 16:24:49,657 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:24:49,657 - DEBUG - Row number is 6
+ 2020-06-10 16:24:49,657 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 16:24:49,657 - INFO - Deleting is finished.
+ 2020-06-10 16:24:49,657 - INFO - Entity loop finished.
+ 2020-06-10 16:24:49,875 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 16:24:49,875 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:24:50,056 - INFO - Deleting lines...
+ 2020-06-10 16:24:50,056 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:24:50,056 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:24:50,056 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:24:50,057 - DEBUG - Row number is 10
+ 2020-06-10 16:24:50,057 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 16:24:50,057 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:24:50,057 - DEBUG - Row number is 9
+ 2020-06-10 16:24:50,057 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 16:24:50,057 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:24:50,057 - DEBUG - Row number is 8
+ 2020-06-10 16:24:50,057 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 16:24:50,057 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:24:50,057 - DEBUG - Row number is 7
+ 2020-06-10 16:24:50,057 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 16:24:50,057 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:24:50,057 - DEBUG - Row number is 6
+ 2020-06-10 16:24:50,057 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 16:24:50,057 - INFO - Deleting is finished.
+ 2020-06-10 16:24:50,057 - INFO - Entity loop finished.
+ 2020-06-10 16:25:56,582 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:25:56,583 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:25:56,583 - INFO - Started entity loop.
+ 2020-06-10 16:25:56,583 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:25:56,583 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:25:56,788 - INFO - Deleting lines...
+ 2020-06-10 16:25:56,788 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:25:56,788 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:25:56,788 - DEBUG - Row number is 11
+ 2020-06-10 16:25:56,788 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:25:56,789 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:25:56,789 - DEBUG - Row number is 10
+ 2020-06-10 16:25:56,789 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:25:56,789 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:25:56,789 - DEBUG - Row number is 9
+ 2020-06-10 16:25:56,789 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:25:56,790 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:25:56,790 - DEBUG - Row number is 8
+ 2020-06-10 16:25:56,790 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:25:56,790 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:25:56,790 - DEBUG - Row number is 7
+ 2020-06-10 16:25:56,790 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:25:56,790 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:25:56,790 - INFO - Deleting is finished.
+ 2020-06-10 16:25:56,790 - INFO - Entity loop finished.
+ 2020-06-10 16:25:56,986 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 16:25:56,986 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:25:57,186 - INFO - Deleting lines...
+ 2020-06-10 16:25:57,186 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:25:57,186 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:25:57,186 - DEBUG - Row number is 11
+ 2020-06-10 16:25:57,186 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 16:25:57,186 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:25:57,186 - DEBUG - Row number is 10
+ 2020-06-10 16:25:57,186 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 16:25:57,186 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:25:57,186 - DEBUG - Row number is 9
+ 2020-06-10 16:25:57,186 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 16:25:57,186 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:25:57,186 - DEBUG - Row number is 8
+ 2020-06-10 16:25:57,186 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 16:25:57,186 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:25:57,186 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:25:57,186 - DEBUG - Row number is 6
+ 2020-06-10 16:25:57,194 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 16:25:57,194 - INFO - Deleting is finished.
+ 2020-06-10 16:25:57,194 - INFO - Entity loop finished.
+ 2020-06-10 16:25:57,381 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 16:25:57,381 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:25:57,563 - INFO - Deleting lines...
+ 2020-06-10 16:25:57,563 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:25:57,563 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:25:57,563 - DEBUG - Row number is 11
+ 2020-06-10 16:25:57,563 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 16:25:57,563 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:25:57,563 - DEBUG - Row number is 10
+ 2020-06-10 16:25:57,563 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 16:25:57,563 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:25:57,563 - DEBUG - Row number is 9
+ 2020-06-10 16:25:57,563 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 16:25:57,579 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:25:57,579 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:25:57,579 - DEBUG - Row number is 7
+ 2020-06-10 16:25:57,579 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 16:25:57,579 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:25:57,579 - DEBUG - Row number is 6
+ 2020-06-10 16:25:57,579 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 16:25:57,579 - INFO - Deleting is finished.
+ 2020-06-10 16:25:57,579 - INFO - Entity loop finished.
+ 2020-06-10 16:25:57,774 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 16:25:57,774 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:25:57,949 - INFO - Deleting lines...
+ 2020-06-10 16:25:57,949 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:25:57,949 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:25:57,949 - DEBUG - Row number is 11
+ 2020-06-10 16:25:57,949 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 16:25:57,949 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:25:57,949 - DEBUG - Row number is 10
+ 2020-06-10 16:25:57,949 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 16:25:57,949 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:25:57,949 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:25:57,949 - DEBUG - Row number is 8
+ 2020-06-10 16:25:57,949 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 16:25:57,949 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:25:57,949 - DEBUG - Row number is 7
+ 2020-06-10 16:25:57,949 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 16:25:57,949 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:25:57,949 - DEBUG - Row number is 6
+ 2020-06-10 16:25:57,949 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 16:25:57,965 - INFO - Deleting is finished.
+ 2020-06-10 16:25:57,965 - INFO - Entity loop finished.
+ 2020-06-10 16:25:58,161 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 16:25:58,161 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:25:58,357 - INFO - Deleting lines...
+ 2020-06-10 16:25:58,357 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:25:58,357 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:25:58,357 - DEBUG - Row number is 11
+ 2020-06-10 16:25:58,357 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 16:25:58,357 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:25:58,357 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:25:58,357 - DEBUG - Row number is 9
+ 2020-06-10 16:25:58,357 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 16:25:58,357 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:25:58,357 - DEBUG - Row number is 8
+ 2020-06-10 16:25:58,357 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 16:25:58,357 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:25:58,357 - DEBUG - Row number is 7
+ 2020-06-10 16:25:58,357 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 16:25:58,357 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:25:58,357 - DEBUG - Row number is 6
+ 2020-06-10 16:25:58,357 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 16:25:58,360 - INFO - Deleting is finished.
+ 2020-06-10 16:25:58,360 - INFO - Entity loop finished.
+ 2020-06-10 16:25:58,576 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 16:25:58,576 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:25:58,777 - INFO - Deleting lines...
+ 2020-06-10 16:25:58,777 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:25:58,780 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:25:58,780 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:25:58,780 - DEBUG - Row number is 10
+ 2020-06-10 16:25:58,780 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 16:25:58,780 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:25:58,780 - DEBUG - Row number is 9
+ 2020-06-10 16:25:58,780 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 16:25:58,781 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:25:58,781 - DEBUG - Row number is 8
+ 2020-06-10 16:25:58,781 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 16:25:58,781 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:25:58,781 - DEBUG - Row number is 7
+ 2020-06-10 16:25:58,781 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 16:25:58,781 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:25:58,781 - DEBUG - Row number is 6
+ 2020-06-10 16:25:58,781 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 16:25:58,783 - INFO - Deleting is finished.
+ 2020-06-10 16:25:58,783 - INFO - Entity loop finished.
+ 2020-06-10 16:26:52,426 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:26:52,426 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:26:52,426 - INFO - Started entity loop.
+ 2020-06-10 16:26:52,426 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:26:52,426 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:26:52,630 - INFO - Deleting lines...
+ 2020-06-10 16:26:52,630 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:26:52,630 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:26:52,630 - DEBUG - Row number is 11
+ 2020-06-10 16:26:52,630 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:26:52,631 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:26:52,631 - DEBUG - Row number is 10
+ 2020-06-10 16:26:52,631 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:26:52,632 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:26:52,632 - DEBUG - Row number is 9
+ 2020-06-10 16:26:52,632 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:26:52,632 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:26:52,632 - DEBUG - Row number is 8
+ 2020-06-10 16:26:52,633 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:26:52,633 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:26:52,633 - DEBUG - Row number is 7
+ 2020-06-10 16:26:52,633 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:26:52,633 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:26:52,633 - INFO - Deleting is finished.
+ 2020-06-10 16:26:52,633 - INFO - Entity loop finished.
+ 2020-06-10 16:26:52,839 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 16:26:52,839 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:26:53,020 - INFO - Deleting lines...
+ 2020-06-10 16:26:53,020 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:26:53,020 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:26:53,020 - DEBUG - Row number is 11
+ 2020-06-10 16:26:53,020 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 16:26:53,020 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:26:53,020 - DEBUG - Row number is 10
+ 2020-06-10 16:26:53,020 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 16:26:53,020 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:26:53,020 - DEBUG - Row number is 9
+ 2020-06-10 16:26:53,020 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 16:26:53,020 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:26:53,020 - DEBUG - Row number is 8
+ 2020-06-10 16:26:53,020 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 16:26:53,020 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:26:53,020 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:26:53,020 - DEBUG - Row number is 6
+ 2020-06-10 16:26:53,020 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 16:26:53,020 - INFO - Deleting is finished.
+ 2020-06-10 16:26:53,020 - INFO - Entity loop finished.
+ 2020-06-10 16:26:53,211 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 16:26:53,211 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:26:53,403 - INFO - Deleting lines...
+ 2020-06-10 16:26:53,403 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:26:53,403 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:26:53,403 - DEBUG - Row number is 11
+ 2020-06-10 16:26:53,403 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 16:26:53,403 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:26:53,403 - DEBUG - Row number is 10
+ 2020-06-10 16:26:53,403 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 16:26:53,403 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:26:53,403 - DEBUG - Row number is 9
+ 2020-06-10 16:26:53,403 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 16:26:53,403 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:26:53,403 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:26:53,403 - DEBUG - Row number is 7
+ 2020-06-10 16:26:53,403 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 16:26:53,403 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:26:53,403 - DEBUG - Row number is 6
+ 2020-06-10 16:26:53,403 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 16:26:53,403 - INFO - Deleting is finished.
+ 2020-06-10 16:26:53,403 - INFO - Entity loop finished.
+ 2020-06-10 16:26:53,591 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 16:26:53,591 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:26:53,784 - INFO - Deleting lines...
+ 2020-06-10 16:26:53,784 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:26:53,784 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:26:53,784 - DEBUG - Row number is 11
+ 2020-06-10 16:26:53,784 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 16:26:53,784 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:26:53,784 - DEBUG - Row number is 10
+ 2020-06-10 16:26:53,784 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 16:26:53,785 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:26:53,785 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:26:53,785 - DEBUG - Row number is 8
+ 2020-06-10 16:26:53,785 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 16:26:53,786 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:26:53,786 - DEBUG - Row number is 7
+ 2020-06-10 16:26:53,786 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 16:26:53,786 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:26:53,786 - DEBUG - Row number is 6
+ 2020-06-10 16:26:53,786 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 16:26:53,786 - INFO - Deleting is finished.
+ 2020-06-10 16:26:53,787 - INFO - Entity loop finished.
+ 2020-06-10 16:26:53,982 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 16:26:53,982 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:26:54,176 - INFO - Deleting lines...
+ 2020-06-10 16:26:54,176 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:26:54,176 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:26:54,176 - DEBUG - Row number is 11
+ 2020-06-10 16:26:54,176 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 16:26:54,184 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:26:54,184 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:26:54,184 - DEBUG - Row number is 9
+ 2020-06-10 16:26:54,184 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 16:26:54,184 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:26:54,184 - DEBUG - Row number is 8
+ 2020-06-10 16:26:54,184 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 16:26:54,184 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:26:54,184 - DEBUG - Row number is 7
+ 2020-06-10 16:26:54,184 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 16:26:54,186 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:26:54,186 - DEBUG - Row number is 6
+ 2020-06-10 16:26:54,186 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 16:26:54,186 - INFO - Deleting is finished.
+ 2020-06-10 16:26:54,186 - INFO - Entity loop finished.
+ 2020-06-10 16:26:54,370 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 16:26:54,370 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:26:54,550 - INFO - Deleting lines...
+ 2020-06-10 16:26:54,550 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:26:54,550 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:26:54,550 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:26:54,550 - DEBUG - Row number is 10
+ 2020-06-10 16:26:54,550 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 16:26:54,550 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:26:54,550 - DEBUG - Row number is 9
+ 2020-06-10 16:26:54,550 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 16:26:54,550 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:26:54,550 - DEBUG - Row number is 8
+ 2020-06-10 16:26:54,550 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 16:26:54,550 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:26:54,566 - DEBUG - Row number is 7
+ 2020-06-10 16:26:54,566 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 16:26:54,566 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:26:54,566 - DEBUG - Row number is 6
+ 2020-06-10 16:26:54,566 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 16:26:54,566 - INFO - Deleting is finished.
+ 2020-06-10 16:26:54,566 - INFO - Entity loop finished.
+ 2020-06-10 16:28:50,852 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:28:50,853 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:28:50,853 - INFO - Started entity loop.
+ 2020-06-10 16:28:50,853 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:28:50,853 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:28:51,059 - INFO - Deleting lines...
+ 2020-06-10 16:28:51,059 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:28:51,059 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:28:51,059 - DEBUG - Row number is 11
+ 2020-06-10 16:28:51,059 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:28:51,059 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:28:51,059 - DEBUG - Row number is 10
+ 2020-06-10 16:28:51,059 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:28:51,060 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:28:51,060 - DEBUG - Row number is 9
+ 2020-06-10 16:28:51,060 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:28:51,060 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:28:51,060 - DEBUG - Row number is 8
+ 2020-06-10 16:28:51,060 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:28:51,060 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:28:51,060 - DEBUG - Row number is 7
+ 2020-06-10 16:28:51,060 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:28:51,060 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:28:51,060 - INFO - Deleting is finished.
+ 2020-06-10 16:28:51,060 - INFO - Entity loop finished.
+ 2020-06-10 16:28:51,268 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 16:28:51,268 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:28:51,455 - INFO - Deleting lines...
+ 2020-06-10 16:28:51,455 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:28:51,455 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:28:51,455 - DEBUG - Row number is 11
+ 2020-06-10 16:28:51,455 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 16:28:51,455 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:28:51,455 - DEBUG - Row number is 10
+ 2020-06-10 16:28:51,455 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 16:28:51,455 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:28:51,455 - DEBUG - Row number is 9
+ 2020-06-10 16:28:51,455 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 16:28:51,455 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:28:51,455 - DEBUG - Row number is 8
+ 2020-06-10 16:28:51,455 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 16:28:51,455 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:28:51,455 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:28:51,455 - DEBUG - Row number is 6
+ 2020-06-10 16:28:51,455 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 16:28:51,455 - INFO - Deleting is finished.
+ 2020-06-10 16:28:51,455 - INFO - Entity loop finished.
+ 2020-06-10 16:28:51,645 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 16:28:51,645 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:28:51,833 - INFO - Deleting lines...
+ 2020-06-10 16:28:51,833 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:28:51,833 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:28:51,833 - DEBUG - Row number is 11
+ 2020-06-10 16:28:51,833 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 16:28:51,833 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:28:51,833 - DEBUG - Row number is 10
+ 2020-06-10 16:28:51,833 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 16:28:51,833 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:28:51,833 - DEBUG - Row number is 9
+ 2020-06-10 16:28:51,833 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 16:28:51,833 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:28:51,833 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:28:51,833 - DEBUG - Row number is 7
+ 2020-06-10 16:28:51,833 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 16:28:51,833 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:28:51,833 - DEBUG - Row number is 6
+ 2020-06-10 16:28:51,833 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 16:28:51,833 - INFO - Deleting is finished.
+ 2020-06-10 16:28:51,833 - INFO - Entity loop finished.
+ 2020-06-10 16:28:52,028 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 16:28:52,028 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:28:52,210 - INFO - Deleting lines...
+ 2020-06-10 16:28:52,210 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:28:52,210 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:28:52,210 - DEBUG - Row number is 11
+ 2020-06-10 16:28:52,210 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 16:28:52,210 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:28:52,210 - DEBUG - Row number is 10
+ 2020-06-10 16:28:52,210 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 16:28:52,210 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:28:52,210 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:28:52,210 - DEBUG - Row number is 8
+ 2020-06-10 16:28:52,210 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 16:28:52,210 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:28:52,210 - DEBUG - Row number is 7
+ 2020-06-10 16:28:52,210 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 16:28:52,210 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:28:52,210 - DEBUG - Row number is 6
+ 2020-06-10 16:28:52,210 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 16:28:52,218 - INFO - Deleting is finished.
+ 2020-06-10 16:28:52,218 - INFO - Entity loop finished.
+ 2020-06-10 16:28:52,403 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 16:28:52,403 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:28:52,603 - INFO - Deleting lines...
+ 2020-06-10 16:28:52,603 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:28:52,603 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:28:52,603 - DEBUG - Row number is 11
+ 2020-06-10 16:28:52,603 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 16:28:52,603 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:28:52,603 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:28:52,603 - DEBUG - Row number is 9
+ 2020-06-10 16:28:52,603 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 16:28:52,603 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:28:52,603 - DEBUG - Row number is 8
+ 2020-06-10 16:28:52,603 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 16:28:52,603 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:28:52,603 - DEBUG - Row number is 7
+ 2020-06-10 16:28:52,603 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 16:28:52,603 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:28:52,603 - DEBUG - Row number is 6
+ 2020-06-10 16:28:52,603 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 16:28:52,603 - INFO - Deleting is finished.
+ 2020-06-10 16:28:52,603 - INFO - Entity loop finished.
+ 2020-06-10 16:28:52,801 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 16:28:52,801 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:28:52,970 - INFO - Deleting lines...
+ 2020-06-10 16:28:52,970 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:28:52,970 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:28:52,970 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:28:52,970 - DEBUG - Row number is 10
+ 2020-06-10 16:28:52,970 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 16:28:52,970 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:28:52,970 - DEBUG - Row number is 9
+ 2020-06-10 16:28:52,970 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 16:28:52,970 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:28:52,970 - DEBUG - Row number is 8
+ 2020-06-10 16:28:52,970 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 16:28:52,970 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:28:52,970 - DEBUG - Row number is 7
+ 2020-06-10 16:28:52,970 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 16:28:52,970 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:28:52,970 - DEBUG - Row number is 6
+ 2020-06-10 16:28:52,970 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 16:28:52,970 - INFO - Deleting is finished.
+ 2020-06-10 16:28:52,970 - INFO - Entity loop finished.
+ 2020-06-10 16:29:55,745 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:29:55,746 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:29:55,746 - INFO - Started entity loop.
+ 2020-06-10 16:29:55,746 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:29:55,746 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:29:56,268 - INFO - Deleting lines...
+ 2020-06-10 16:29:56,268 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:29:56,268 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:29:56,268 - DEBUG - Row number is 11
+ 2020-06-10 16:29:56,269 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:29:56,269 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:29:56,269 - DEBUG - Row number is 10
+ 2020-06-10 16:29:56,269 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:29:56,269 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:29:56,269 - DEBUG - Row number is 9
+ 2020-06-10 16:29:56,269 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:29:56,273 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:29:56,273 - DEBUG - Row number is 8
+ 2020-06-10 16:29:56,273 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:29:56,273 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:29:56,273 - DEBUG - Row number is 7
+ 2020-06-10 16:29:56,273 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:29:56,273 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:29:56,273 - INFO - Deleting is finished.
+ 2020-06-10 16:29:56,277 - INFO - Entity loop finished.
+ 2020-06-10 16:36:01,682 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:36:01,682 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:36:01,682 - INFO - Started entity loop.
+ 2020-06-10 16:36:01,683 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:36:01,683 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:36:02,138 - INFO - Deleting lines...
+ 2020-06-10 16:36:02,138 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:36:02,138 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:36:02,138 - DEBUG - Row number is 11
+ 2020-06-10 16:36:02,138 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:36:02,140 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:36:02,140 - DEBUG - Row number is 10
+ 2020-06-10 16:36:02,140 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:36:02,140 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:36:02,140 - DEBUG - Row number is 9
+ 2020-06-10 16:36:02,140 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:36:02,140 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:36:02,140 - DEBUG - Row number is 8
+ 2020-06-10 16:36:02,140 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:36:02,140 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:36:02,140 - DEBUG - Row number is 7
+ 2020-06-10 16:36:02,140 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:36:02,144 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:36:02,144 - INFO - Deleting is finished.
+ 2020-06-10 16:36:02,144 - INFO - Entity loop finished.
+ 2020-06-10 16:36:27,957 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:36:27,957 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:36:27,957 - INFO - Started entity loop.
+ 2020-06-10 16:36:27,957 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:36:27,959 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:36:28,515 - INFO - Deleting lines...
+ 2020-06-10 16:36:28,515 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:36:28,516 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:36:28,516 - DEBUG - Row number is 11
+ 2020-06-10 16:36:28,516 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:36:28,517 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:36:28,517 - DEBUG - Row number is 10
+ 2020-06-10 16:36:28,517 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:36:28,517 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:36:28,517 - DEBUG - Row number is 9
+ 2020-06-10 16:36:28,517 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:36:28,521 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:36:28,521 - DEBUG - Row number is 8
+ 2020-06-10 16:36:28,521 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:36:28,521 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:36:28,521 - DEBUG - Row number is 7
+ 2020-06-10 16:36:28,521 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:36:28,521 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:36:28,521 - INFO - Deleting is finished.
+ 2020-06-10 16:36:28,525 - INFO - Entity loop finished.
+ 2020-06-10 16:37:00,701 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:37:00,702 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:37:00,702 - INFO - Started entity loop.
+ 2020-06-10 16:37:00,702 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:37:00,702 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:37:01,173 - INFO - Deleting lines...
+ 2020-06-10 16:37:01,173 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:37:01,173 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:37:01,173 - DEBUG - Row number is 11
+ 2020-06-10 16:37:01,173 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:37:01,174 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:37:01,174 - DEBUG - Row number is 10
+ 2020-06-10 16:37:01,174 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:37:01,174 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:37:01,174 - DEBUG - Row number is 9
+ 2020-06-10 16:37:01,174 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:37:01,174 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:37:01,174 - DEBUG - Row number is 8
+ 2020-06-10 16:37:01,174 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:37:01,174 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:37:01,174 - DEBUG - Row number is 7
+ 2020-06-10 16:37:01,174 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:37:01,174 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:37:01,174 - INFO - Deleting is finished.
+ 2020-06-10 16:37:01,174 - INFO - Entity loop finished.
+ 2020-06-10 16:37:01,603 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 16:37:01,603 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:37:02,085 - INFO - Deleting lines...
+ 2020-06-10 16:37:02,085 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:37:02,085 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:37:02,085 - DEBUG - Row number is 11
+ 2020-06-10 16:37:02,085 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 16:37:02,085 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:37:02,085 - DEBUG - Row number is 10
+ 2020-06-10 16:37:02,085 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 16:37:02,085 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:37:02,085 - DEBUG - Row number is 9
+ 2020-06-10 16:37:02,085 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 16:37:02,085 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:37:02,085 - DEBUG - Row number is 8
+ 2020-06-10 16:37:02,085 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 16:37:02,085 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:37:02,085 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:37:02,093 - DEBUG - Row number is 6
+ 2020-06-10 16:37:02,093 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 16:37:02,093 - INFO - Deleting is finished.
+ 2020-06-10 16:37:02,093 - INFO - Entity loop finished.
+ 2020-06-10 16:37:02,500 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 16:37:02,500 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:37:03,013 - INFO - Deleting lines...
+ 2020-06-10 16:37:03,013 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:37:03,013 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:37:03,013 - DEBUG - Row number is 11
+ 2020-06-10 16:37:03,013 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 16:37:03,013 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:37:03,013 - DEBUG - Row number is 10
+ 2020-06-10 16:37:03,013 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 16:37:03,013 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:37:03,013 - DEBUG - Row number is 9
+ 2020-06-10 16:37:03,013 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 16:37:03,013 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:37:03,013 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:37:03,013 - DEBUG - Row number is 7
+ 2020-06-10 16:37:03,013 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 16:37:03,021 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:37:03,021 - DEBUG - Row number is 6
+ 2020-06-10 16:37:03,021 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 16:37:03,021 - INFO - Deleting is finished.
+ 2020-06-10 16:37:03,021 - INFO - Entity loop finished.
+ 2020-06-10 16:37:03,478 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 16:37:03,478 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:37:03,907 - INFO - Deleting lines...
+ 2020-06-10 16:37:03,907 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:37:03,907 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:37:03,907 - DEBUG - Row number is 11
+ 2020-06-10 16:37:03,907 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 16:37:03,907 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:37:03,907 - DEBUG - Row number is 10
+ 2020-06-10 16:37:03,907 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 16:37:03,907 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:37:03,907 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:37:03,907 - DEBUG - Row number is 8
+ 2020-06-10 16:37:03,907 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 16:37:03,907 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:37:03,907 - DEBUG - Row number is 7
+ 2020-06-10 16:37:03,907 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 16:37:03,907 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:37:03,907 - DEBUG - Row number is 6
+ 2020-06-10 16:37:03,915 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 16:37:03,915 - INFO - Deleting is finished.
+ 2020-06-10 16:37:03,915 - INFO - Entity loop finished.
+ 2020-06-10 16:37:04,465 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 16:37:04,465 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:37:04,978 - INFO - Deleting lines...
+ 2020-06-10 16:37:04,978 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:37:04,978 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:37:04,978 - DEBUG - Row number is 11
+ 2020-06-10 16:37:04,978 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 16:37:04,978 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:37:04,978 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:37:04,978 - DEBUG - Row number is 9
+ 2020-06-10 16:37:04,978 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 16:37:04,978 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:37:04,978 - DEBUG - Row number is 8
+ 2020-06-10 16:37:04,978 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 16:37:04,986 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:37:04,986 - DEBUG - Row number is 7
+ 2020-06-10 16:37:04,986 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 16:37:04,986 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:37:04,986 - DEBUG - Row number is 6
+ 2020-06-10 16:37:04,986 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 16:37:04,986 - INFO - Deleting is finished.
+ 2020-06-10 16:37:04,986 - INFO - Entity loop finished.
+ 2020-06-10 16:37:05,433 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 16:37:05,433 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:37:05,842 - INFO - Deleting lines...
+ 2020-06-10 16:37:05,842 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:37:05,842 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:37:05,842 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:37:05,842 - DEBUG - Row number is 10
+ 2020-06-10 16:37:05,842 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 16:37:05,842 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:37:05,842 - DEBUG - Row number is 9
+ 2020-06-10 16:37:05,842 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 16:37:05,842 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:37:05,842 - DEBUG - Row number is 8
+ 2020-06-10 16:37:05,850 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 16:37:05,850 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:37:05,850 - DEBUG - Row number is 7
+ 2020-06-10 16:37:05,850 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 16:37:05,850 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:37:05,850 - DEBUG - Row number is 6
+ 2020-06-10 16:37:05,850 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 16:37:05,850 - INFO - Deleting is finished.
+ 2020-06-10 16:37:05,850 - INFO - Entity loop finished.
+ 2020-06-10 16:37:34,976 - DEBUG - List of unique entities as per consolidated file: 
+ 2020-06-10 16:37:34,976 - DEBUG - ['KZ101', 'KZ102', 'KZ104', 'KZ104A', 'KZ104B', 'KZ104C']
+ 2020-06-10 16:37:34,976 - INFO - Started entity loop.
+ 2020-06-10 16:37:34,976 - DEBUG - Entity code once loop just started: KZ101
+ 2020-06-10 16:37:34,977 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:37:35,535 - INFO - Deleting lines...
+ 2020-06-10 16:37:35,535 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:37:35,535 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:37:35,535 - DEBUG - Row number is 11
+ 2020-06-10 16:37:35,535 - DEBUG - Row value is KZ104C and entity value is KZ101
+ 2020-06-10 16:37:35,536 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:37:35,536 - DEBUG - Row number is 10
+ 2020-06-10 16:37:35,536 - DEBUG - Row value is KZ104B and entity value is KZ101
+ 2020-06-10 16:37:35,537 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:37:35,537 - DEBUG - Row number is 9
+ 2020-06-10 16:37:35,537 - DEBUG - Row value is KZ104A and entity value is KZ101
+ 2020-06-10 16:37:35,538 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:37:35,538 - DEBUG - Row number is 8
+ 2020-06-10 16:37:35,538 - DEBUG - Row value is KZ104 and entity value is KZ101
+ 2020-06-10 16:37:35,539 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:37:35,539 - DEBUG - Row number is 7
+ 2020-06-10 16:37:35,539 - DEBUG - Row value is KZ102 and entity value is KZ101
+ 2020-06-10 16:37:35,539 - DEBUG - Entity code when DELETE loop started: KZ101
+ 2020-06-10 16:37:35,539 - INFO - Deleting is finished.
+ 2020-06-10 16:37:35,539 - INFO - Entity loop finished.
+ 2020-06-10 16:37:36,025 - DEBUG - Entity code once loop just started: KZ102
+ 2020-06-10 16:37:36,025 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:37:36,434 - INFO - Deleting lines...
+ 2020-06-10 16:37:36,434 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:37:36,434 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:37:36,434 - DEBUG - Row number is 11
+ 2020-06-10 16:37:36,434 - DEBUG - Row value is KZ104C and entity value is KZ102
+ 2020-06-10 16:37:36,434 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:37:36,442 - DEBUG - Row number is 10
+ 2020-06-10 16:37:36,442 - DEBUG - Row value is KZ104B and entity value is KZ102
+ 2020-06-10 16:37:36,442 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:37:36,442 - DEBUG - Row number is 9
+ 2020-06-10 16:37:36,442 - DEBUG - Row value is KZ104A and entity value is KZ102
+ 2020-06-10 16:37:36,442 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:37:36,442 - DEBUG - Row number is 8
+ 2020-06-10 16:37:36,442 - DEBUG - Row value is KZ104 and entity value is KZ102
+ 2020-06-10 16:37:36,442 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:37:36,442 - DEBUG - Entity code when DELETE loop started: KZ102
+ 2020-06-10 16:37:36,442 - DEBUG - Row number is 6
+ 2020-06-10 16:37:36,442 - DEBUG - Row value is KZ101 and entity value is KZ102
+ 2020-06-10 16:37:36,442 - INFO - Deleting is finished.
+ 2020-06-10 16:37:36,442 - INFO - Entity loop finished.
+ 2020-06-10 16:37:36,874 - DEBUG - Entity code once loop just started: KZ104
+ 2020-06-10 16:37:36,874 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:37:37,393 - INFO - Deleting lines...
+ 2020-06-10 16:37:37,393 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:37:37,393 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:37:37,393 - DEBUG - Row number is 11
+ 2020-06-10 16:37:37,393 - DEBUG - Row value is KZ104C and entity value is KZ104
+ 2020-06-10 16:37:37,393 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:37:37,393 - DEBUG - Row number is 10
+ 2020-06-10 16:37:37,393 - DEBUG - Row value is KZ104B and entity value is KZ104
+ 2020-06-10 16:37:37,393 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:37:37,393 - DEBUG - Row number is 9
+ 2020-06-10 16:37:37,393 - DEBUG - Row value is KZ104A and entity value is KZ104
+ 2020-06-10 16:37:37,401 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:37:37,401 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:37:37,401 - DEBUG - Row number is 7
+ 2020-06-10 16:37:37,401 - DEBUG - Row value is KZ102 and entity value is KZ104
+ 2020-06-10 16:37:37,401 - DEBUG - Entity code when DELETE loop started: KZ104
+ 2020-06-10 16:37:37,401 - DEBUG - Row number is 6
+ 2020-06-10 16:37:37,401 - DEBUG - Row value is KZ101 and entity value is KZ104
+ 2020-06-10 16:37:37,401 - INFO - Deleting is finished.
+ 2020-06-10 16:37:37,401 - INFO - Entity loop finished.
+ 2020-06-10 16:37:37,911 - DEBUG - Entity code once loop just started: KZ104A
+ 2020-06-10 16:37:37,911 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:37:38,466 - INFO - Deleting lines...
+ 2020-06-10 16:37:38,466 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:37:38,466 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:37:38,466 - DEBUG - Row number is 11
+ 2020-06-10 16:37:38,466 - DEBUG - Row value is KZ104C and entity value is KZ104A
+ 2020-06-10 16:37:38,466 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:37:38,466 - DEBUG - Row number is 10
+ 2020-06-10 16:37:38,474 - DEBUG - Row value is KZ104B and entity value is KZ104A
+ 2020-06-10 16:37:38,474 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:37:38,474 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:37:38,474 - DEBUG - Row number is 8
+ 2020-06-10 16:37:38,474 - DEBUG - Row value is KZ104 and entity value is KZ104A
+ 2020-06-10 16:37:38,474 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:37:38,474 - DEBUG - Row number is 7
+ 2020-06-10 16:37:38,474 - DEBUG - Row value is KZ102 and entity value is KZ104A
+ 2020-06-10 16:37:38,474 - DEBUG - Entity code when DELETE loop started: KZ104A
+ 2020-06-10 16:37:38,474 - DEBUG - Row number is 6
+ 2020-06-10 16:37:38,474 - DEBUG - Row value is KZ101 and entity value is KZ104A
+ 2020-06-10 16:37:38,474 - INFO - Deleting is finished.
+ 2020-06-10 16:37:38,474 - INFO - Entity loop finished.
+ 2020-06-10 16:37:39,022 - DEBUG - Entity code once loop just started: KZ104B
+ 2020-06-10 16:37:39,022 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:37:39,548 - INFO - Deleting lines...
+ 2020-06-10 16:37:39,548 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:37:39,548 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:37:39,548 - DEBUG - Row number is 11
+ 2020-06-10 16:37:39,548 - DEBUG - Row value is KZ104C and entity value is KZ104B
+ 2020-06-10 16:37:39,548 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:37:39,548 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:37:39,548 - DEBUG - Row number is 9
+ 2020-06-10 16:37:39,548 - DEBUG - Row value is KZ104A and entity value is KZ104B
+ 2020-06-10 16:37:39,548 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:37:39,548 - DEBUG - Row number is 8
+ 2020-06-10 16:37:39,548 - DEBUG - Row value is KZ104 and entity value is KZ104B
+ 2020-06-10 16:37:39,548 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:37:39,548 - DEBUG - Row number is 7
+ 2020-06-10 16:37:39,548 - DEBUG - Row value is KZ102 and entity value is KZ104B
+ 2020-06-10 16:37:39,548 - DEBUG - Entity code when DELETE loop started: KZ104B
+ 2020-06-10 16:37:39,548 - DEBUG - Row number is 6
+ 2020-06-10 16:37:39,548 - DEBUG - Row value is KZ101 and entity value is KZ104B
+ 2020-06-10 16:37:39,548 - INFO - Deleting is finished.
+ 2020-06-10 16:37:39,548 - INFO - Entity loop finished.
+ 2020-06-10 16:37:40,088 - DEBUG - Entity code once loop just started: KZ104C
+ 2020-06-10 16:37:40,088 - DEBUG - Opening consolidated file Copy_KZ_G&A_planning_template_FCST2_2020.xlsm
+ 2020-06-10 16:37:40,601 - INFO - Deleting lines...
+ 2020-06-10 16:37:40,601 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:37:40,601 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:37:40,601 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:37:40,601 - DEBUG - Row number is 10
+ 2020-06-10 16:37:40,601 - DEBUG - Row value is KZ104B and entity value is KZ104C
+ 2020-06-10 16:37:40,601 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:37:40,601 - DEBUG - Row number is 9
+ 2020-06-10 16:37:40,608 - DEBUG - Row value is KZ104A and entity value is KZ104C
+ 2020-06-10 16:37:40,609 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:37:40,609 - DEBUG - Row number is 8
+ 2020-06-10 16:37:40,609 - DEBUG - Row value is KZ104 and entity value is KZ104C
+ 2020-06-10 16:37:40,611 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:37:40,611 - DEBUG - Row number is 7
+ 2020-06-10 16:37:40,611 - DEBUG - Row value is KZ102 and entity value is KZ104C
+ 2020-06-10 16:37:40,611 - DEBUG - Entity code when DELETE loop started: KZ104C
+ 2020-06-10 16:37:40,611 - DEBUG - Row number is 6
+ 2020-06-10 16:37:40,611 - DEBUG - Row value is KZ101 and entity value is KZ104C
+ 2020-06-10 16:37:40,611 - INFO - Deleting is finished.
+ 2020-06-10 16:37:40,611 - INFO - Entity loop finished.
