@@ -2,17 +2,20 @@
 
 import openpyxl, os, logging
 from pprint import pprint
+from tkinter.filedialog import askopenfilename
 
 logging.basicConfig(filename='logs.txt', level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
-# logging.disable(logging.CRITICAL)
-os.chdir('C:\\Users\\gruzd\\Documents\\Python_Scripts\\Excel')
+logging.disable(logging.CRITICAL)
 
 columnList = []
 entitiesList = []
-# TODO: Workbook should be selected by user
-consolFile = 'Copy_KZ_G&A_planning_template_FCST2_2020.xlsm'
-# region = input('Type in region: ')
-region = 'KZ' # Temporary
+consolFile = askopenfilename() # Selected by user from browser
+region = input('Type in region: ')
+
+if region not in consolFile:
+    print('Wrong region name, programm has been stopped.')
+    exit()
+
 wb = openpyxl.load_workbook(consolFile, data_only=True, keep_vba=True) # data_only - to show cells value, not formula
 ws = wb.get_sheet_by_name('Summary')
 column = ws['D']
@@ -25,7 +28,6 @@ for value in columnList:
 entitiesList.remove('FORMULA')
 logging.debug('List of unique entities as per consolidated file: ')
 logging.debug(entitiesList)
-
 
 logging.info('Started entity loop.')
 for entity in entitiesList:
@@ -46,10 +48,16 @@ for entity in entitiesList:
     logging.info('Deleting is finished.')
     logging.info('Entity loop finished.')    
 
-    # ws.protection.password = '' # Set password if necessary
-    # ws.protection.sheet = True
+    ws.protection.password = '1234'
+    ws.protection.sheet = True
+    ws.protection.autoFilter = False
     
+    if region == 'KZ':
+        insctuctions = 'Инструкции'
+    else:
+        insctuctions = 'Instructions'
+    wb.active = wb.sheetnames.index(insctuctions)
+
     newFileName = consolFile.replace(region, entity)
-    # wb.close
     wb.save(newFileName)
 
