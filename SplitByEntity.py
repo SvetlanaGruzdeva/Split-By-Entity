@@ -56,7 +56,6 @@ for entity in entitiesList:
         insctuctions = 'Инструкции'
     else:
         insctuctions = 'Instructions'
-    # TODO: Unselect summary tab first
     wb.active = wb.sheetnames.index(insctuctions)
     wb['Summary'].views.sheetView[0].tabSelected = False
 
